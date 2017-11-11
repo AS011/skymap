@@ -1,0 +1,50 @@
+[
+    {
+        "outputFile": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\incremental\\mergeFdroidDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 72,
+                    "endOffset": 123
+                },
+                "from": {
+                    "file": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\generated\\res\\resValues\\androidTest\\fdroid\\debug\\values\\generated.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 167,
+                        "endColumn": 72,
+                        "endOffset": 235
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/incremental/mergeFdroidDebugAndroidTestResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 72,
+                    "endOffset": 123
+                },
+                "from": {
+                    "file": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/generated/res/resValues/androidTest/fdroid/debug/values/generated.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 162,
+                        "endColumn": 72,
+                        "endOffset": 230
+                    }
+                }
+            }
+        ]
+    }
+]

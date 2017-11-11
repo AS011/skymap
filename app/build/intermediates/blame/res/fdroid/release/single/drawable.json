@@ -1,0 +1,1130 @@
+[
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/stargazing2.jpg",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/stargazing2.jpg"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\messier_off.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\messier_off.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/hubble_m13.jpg",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/hubble_m13.jpg"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/hubble_venus_clouds_tops.jpg",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/hubble_venus_clouds_tops.jpg"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\b_planets_off.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\b_planets_off.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/b_meteor_on.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/b_meteor_on.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\b_meteor_off.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\b_meteor_off.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\b_horizon_on.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\b_horizon_on.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\manualmode.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\manualmode.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/horizon_off.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/horizon_off.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\hubble_m31.jpg",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\hubble_m31.jpg"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/pluto.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/pluto.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\neptune.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\neptune.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\backwards_play.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\backwards_play.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\hubble_uranus.jpg",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\hubble_uranus.jpg"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\meteor1_screen.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\meteor1_screen.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\b_iss_off.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\b_iss_off.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\hubble_m45.jpg",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\hubble_m45.jpg"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/moon0.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/moon0.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\info_bubble_on.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\info_bubble_on.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\sc3.jpg",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\sc3.jpg"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\facebook_box.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\facebook_box.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\b_messier_on.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\b_messier_on.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/messenger_11_07_39.jpg",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/messenger_11_07_39.jpg"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/jupiter.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/jupiter.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\sc5.jpg",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\sc5.jpg"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\search_lens_very_small.jpg",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\search_lens_very_small.jpg"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\brightstar.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\brightstar.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\hubble_v838.jpg",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\hubble_v838.jpg"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/search_lens_very_small.jpg",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/search_lens_very_small.jpg"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\hubble_m57.jpg",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\hubble_m57.jpg"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/hubble_m1.jpg",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/hubble_m1.jpg"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\saturn.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\saturn.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/sidebarnoelements.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/sidebarnoelements.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\hubble_mars.jpg",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\hubble_mars.jpg"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\vasa_profile.jpg",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\vasa_profile.jpg"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/backwards_play.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/backwards_play.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/location_on.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/location_on.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\playstore_icon.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\playstore_icon.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\planet_off.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\planet_off.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\default_cover.jpg",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\default_cover.jpg"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\search_in_sky_off.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\search_in_sky_off.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/uranus.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/uranus.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/b_horizon_on.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/b_horizon_on.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\uranus.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\uranus.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\grid_on.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\grid_on.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\stargazing1.jpg",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\stargazing1.jpg"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\b_messier_off.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\b_messier_off.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/line.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/line.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/layers_off.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/layers_off.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\timetravel_back_btn.xml",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\timetravel_back_btn.xml"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/sun.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/sun.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\hubble_m16.jpg",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\hubble_m16.jpg"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/star_on.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/star_on.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/facebook_box.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/facebook_box.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\line.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\line.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\layers_off.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\layers_off.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\moon4.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\moon4.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/moon5.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/moon5.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\stop_time_travel_pressed.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\stop_time_travel_pressed.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/search_in_sky_on.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/search_in_sky_on.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/stars_texture.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/stars_texture.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\b_meteor_on.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\b_meteor_on.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/messier_on.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/messier_on.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/sc4.jpg",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/sc4.jpg"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/default_cover.jpg",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/default_cover.jpg"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\forward_play.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\forward_play.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\horizon_off.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\horizon_off.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/moon6.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/moon6.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/mercury.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/mercury.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\crosshair.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\crosshair.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\blank.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\blank.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/meteor2_screen.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/meteor2_screen.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\app_wall.jpg",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\app_wall.jpg"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\stargazing2.jpg",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\stargazing2.jpg"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/sc3.jpg",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/sc3.jpg"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\arrowcircle.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\arrowcircle.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/b_iss_on.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/b_iss_on.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/icon.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/icon.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/star_off.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/star_off.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/b_planets_on.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/b_planets_on.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/b_star_off.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/b_star_off.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\stargazing1_cover.xml",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\stargazing1_cover.xml"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/sci_comm_logo.jpg",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/sci_comm_logo.jpg"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/moon4.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/moon4.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\moon3.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\moon3.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\stars_off.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\stars_off.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\.android\\build-cache\\14a561900adf4766957a91bcf01c55bd3dcbc251\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\b_horizon_off.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\b_horizon_off.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/hubble_mars.jpg",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/hubble_mars.jpg"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/sc5.jpg",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/sc5.jpg"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/hubble_jupiter.jpg",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/hubble_jupiter.jpg"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/b_iss_off.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/b_iss_off.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/b_grid_on.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/b_grid_on.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/stop_time_travel_pressed.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/stop_time_travel_pressed.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\sc8.jpg",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\sc8.jpg"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/timetravel_stop_btn.xml",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/timetravel_stop_btn.xml"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/timetravel_fwd_btn.xml",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/timetravel_fwd_btn.xml"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\star_off.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\star_off.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\common_plus_signin_btn_text_light.xml",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\.android\\build-cache\\14a561900adf4766957a91bcf01c55bd3dcbc251\\output\\res\\drawable\\common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\b_grid_off.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\b_grid_off.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/timetravel_back_btn.xml",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/timetravel_back_btn.xml"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\b_constellation_off.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\b_constellation_off.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\stardroid_big_image.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\stardroid_big_image.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\forward_play_pressed.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\forward_play_pressed.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\planet_on.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\planet_on.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\time_travel_bar.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\time_travel_bar.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\.android\\build-cache\\14a561900adf4766957a91bcf01c55bd3dcbc251\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\hubble_neptune.jpg",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\hubble_neptune.jpg"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/arrowcircle.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/arrowcircle.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/blank.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/blank.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\common_plus_signin_btn_icon_light.xml",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\.android\\build-cache\\14a561900adf4766957a91bcf01c55bd3dcbc251\\output\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/b_messier_off.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/b_messier_off.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\sc1.jpg",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\sc1.jpg"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\sc7.jpg",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\sc7.jpg"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/hubble_m101.jpg",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/hubble_m101.jpg"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\common_plus_signin_btn_text_dark.xml",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\.android\\build-cache\\14a561900adf4766957a91bcf01c55bd3dcbc251\\output\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/time_travel_bar.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/time_travel_bar.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\facebook_box2.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\facebook_box2.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/stargazing1_cover.xml",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/stargazing1_cover.xml"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/mars.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/mars.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\hubble_saturn.jpg",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\hubble_saturn.jpg"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "/home/vaibhav/.android/build-cache/37cb5642d5d00a85cc2e9f1a4b775296f5cd64a9/output/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/time_travel_close.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/time_travel_close.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/planet_on.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/planet_on.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\devloper_facebook.xml",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\devloper_facebook.xml"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/company_logo.jpg",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/company_logo.jpg"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\timetravel_fwd_btn.xml",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\timetravel_fwd_btn.xml"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/hubble_neptune.jpg",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/hubble_neptune.jpg"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\sun.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\sun.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\hubble_m1.jpg",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\hubble_m1.jpg"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/b_constellation_off.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/b_constellation_off.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\hubble_m51a.jpg",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\hubble_m51a.jpg"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\company_logo.jpg",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\company_logo.jpg"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/common_plus_signin_btn_text_dark.xml",
+        "source": "/home/vaibhav/.android/build-cache/37cb5642d5d00a85cc2e9f1a4b775296f5cd64a9/output/res/drawable/common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\hubble_venus_clouds_tops.jpg",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\hubble_venus_clouds_tops.jpg"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/playstore_link.xml",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/playstore_link.xml"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/b_star_on.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/b_star_on.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\moon.jpg",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\moon.jpg"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/home/vaibhav/.android/build-cache/37cb5642d5d00a85cc2e9f1a4b775296f5cd64a9/output/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/manualmode.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/manualmode.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\moon0.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\moon0.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/moon1.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/moon1.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/hubble_m45.jpg",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/hubble_m45.jpg"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/stars_off.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/stars_off.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\pluto.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\pluto.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\common_plus_signin_btn_icon_dark.xml",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\.android\\build-cache\\14a561900adf4766957a91bcf01c55bd3dcbc251\\output\\res\\drawable\\common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/stargazing1.jpg",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/stargazing1.jpg"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\hubble_m101.jpg",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\hubble_m101.jpg"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/hubble_ultra_deep_field.jpg",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/hubble_ultra_deep_field.jpg"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\grid_off.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\grid_off.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/hubble_m31.jpg",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/hubble_m31.jpg"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\sc2.jpg",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\sc2.jpg"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/sc8.jpg",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/sc8.jpg"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\icon.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/devloper_facebook.xml",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/devloper_facebook.xml"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/time_travel_small_icon.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/time_travel_small_icon.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\time_travel_close.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\time_travel_close.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\sci_comm_logo.jpg",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\sci_comm_logo.jpg"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/brightstar.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/brightstar.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/crosshair.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/crosshair.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\vasa_wallpaper.jpg",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\vasa_wallpaper.jpg"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\layers_on.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\layers_on.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/hubble_orion.jpg",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/hubble_orion.jpg"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\mercury.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\mercury.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/hubble_m16.jpg",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/hubble_m16.jpg"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/b_constellation_on.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/b_constellation_on.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\b_grid_on.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\b_grid_on.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\jupiter.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\jupiter.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\b_iss_on.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\b_iss_on.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/moon.jpg",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/moon.jpg"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/default_cover2.jpg",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/default_cover2.jpg"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\hubble_jupiter.jpg",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\hubble_jupiter.jpg"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/automaticmode.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/automaticmode.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/location_off.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/location_off.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/neptune.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/neptune.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/hubble_uranus.jpg",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/hubble_uranus.jpg"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\hubble_orion.jpg",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\hubble_orion.jpg"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/forward_play.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/forward_play.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/moon3.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/moon3.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/horizon_on.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/horizon_on.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\arrow.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\arrow.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\control_panel.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\control_panel.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\sc6.jpg",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\sc6.jpg"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\stop_time_travel.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\stop_time_travel.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/forward_play_pressed.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/forward_play_pressed.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/sc6.jpg",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/sc6.jpg"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/info_bubble_off.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/info_bubble_off.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/common_plus_signin_btn_icon_light.xml",
+        "source": "/home/vaibhav/.android/build-cache/37cb5642d5d00a85cc2e9f1a4b775296f5cd64a9/output/res/drawable/common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\location_off.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\location_off.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/time_travel_icon.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/time_travel_icon.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\sidebarnoelements.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\sidebarnoelements.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/venus.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/venus.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/hubble_omegacentauri.jpg",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/hubble_omegacentauri.jpg"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\stars_on.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\stars_on.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/hubble_v838.jpg",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/hubble_v838.jpg"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/planet_off.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/planet_off.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\vasa_logo_big.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\vasa_logo_big.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\moon2.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\moon2.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/hubble_m57.jpg",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/hubble_m57.jpg"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\moon5.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\moon5.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\hubble_catseyenebula.jpg",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\hubble_catseyenebula.jpg"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/stardroid_big_image.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/stardroid_big_image.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\info_bubble_off.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\info_bubble_off.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\search_in_sky_on.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\search_in_sky_on.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\nh_pluto_in_false_color.jpg",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\nh_pluto_in_false_color.jpg"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\hubble_m13.jpg",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\hubble_m13.jpg"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\horizon_on.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\horizon_on.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/messier_off.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/messier_off.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/vasa_wallpaper.jpg",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/vasa_wallpaper.jpg"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/app_wall.jpg",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/app_wall.jpg"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/stop_time_travel.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/stop_time_travel.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\automaticmode.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\automaticmode.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/hubble_m51a.jpg",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/hubble_m51a.jpg"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/layers_on.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/layers_on.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/common_plus_signin_btn_text_light.xml",
+        "source": "/home/vaibhav/.android/build-cache/37cb5642d5d00a85cc2e9f1a4b775296f5cd64a9/output/res/drawable/common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/meteor1_screen.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/meteor1_screen.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/hubble_saturn.jpg",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/hubble_saturn.jpg"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/facebook_box2.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/facebook_box2.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/vasa_profile.jpg",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/vasa_profile.jpg"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/skymap_logo.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/skymap_logo.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/saturn.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/saturn.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\time_travel_small_icon.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\time_travel_small_icon.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\moon6.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\moon6.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\hubble_ultra_deep_field.jpg",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\hubble_ultra_deep_field.jpg"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/moon7.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/moon7.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/b_horizon_off.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/b_horizon_off.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\playstore_link.xml",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\playstore_link.xml"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "/home/vaibhav/.android/build-cache/37cb5642d5d00a85cc2e9f1a4b775296f5cd64a9/output/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/common_plus_signin_btn_icon_dark.xml",
+        "source": "/home/vaibhav/.android/build-cache/37cb5642d5d00a85cc2e9f1a4b775296f5cd64a9/output/res/drawable/common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\backwards_play_pressed.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\backwards_play_pressed.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/wallpaper.jpg",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/wallpaper.jpg"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/sc2.jpg",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/sc2.jpg"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\hubble_m104.jpg",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\hubble_m104.jpg"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\stargazing2_cover.xml",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\stargazing2_cover.xml"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\time_travel_icon.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\time_travel_icon.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\b_constellation_on.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\b_constellation_on.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\moon1.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\moon1.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\b_star_off.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\b_star_off.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\b_star_on.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\b_star_on.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\.android\\build-cache\\14a561900adf4766957a91bcf01c55bd3dcbc251\\output\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/moon2.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/moon2.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\hubble_omegacentauri.jpg",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\hubble_omegacentauri.jpg"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/stars_on.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/stars_on.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\stars_texture.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\stars_texture.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/grid_off.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/grid_off.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/b_planets_off.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/b_planets_off.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/common_google_signin_btn_text_light.xml",
+        "source": "/home/vaibhav/.android/build-cache/37cb5642d5d00a85cc2e9f1a4b775296f5cd64a9/output/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/sc7.jpg",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/sc7.jpg"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\venus.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\venus.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\location_on.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\location_on.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/b_messier_on.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/b_messier_on.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\wallpaper.jpg",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\wallpaper.jpg"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\star_of_b.gif",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\star_of_b.gif"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/playstore_icon.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/playstore_icon.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/info_bubble_on.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/info_bubble_on.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\messenger_11_07_39.jpg",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\messenger_11_07_39.jpg"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/search_in_sky_off.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/search_in_sky_off.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\messier_on.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\messier_on.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\b_planets_on.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\b_planets_on.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\moon7.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\moon7.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\timetravel_stop_btn.xml",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\timetravel_stop_btn.xml"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/nh_pluto_in_false_color.jpg",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/nh_pluto_in_false_color.jpg"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\skymap_logo.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\skymap_logo.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/grid_on.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/grid_on.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\.android\\build-cache\\14a561900adf4766957a91bcf01c55bd3dcbc251\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/stargazing2_cover.xml",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/stargazing2_cover.xml"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/backwards_play_pressed.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/backwards_play_pressed.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\meteor2_screen.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\meteor2_screen.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/vasa_logo_big.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/vasa_logo_big.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\sc4.jpg",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\sc4.jpg"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\default_cover2.jpg",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\default_cover2.jpg"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\star_on.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\star_on.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/hubble_catseyenebula.jpg",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/hubble_catseyenebula.jpg"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/hubble_m104.jpg",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/hubble_m104.jpg"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/b_meteor_off.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/b_meteor_off.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/control_panel.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/control_panel.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable\\mars.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable\\mars.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/arrow.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/arrow.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/sc1.jpg",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/sc1.jpg"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/b_grid_off.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/b_grid_off.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable/star_of_b.gif",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable/star_of_b.gif"
+    }
+]

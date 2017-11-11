@@ -1,0 +1,4 @@
+#Sat Sep 09 22:56:13 IST 2017
+base.0=C\:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\transforms\\dex\\fdroid\\debug\\folders\\1000\\5\\slice_4
+renamed.0=classes.dex
+file.0=C\:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\transforms\\dex\\fdroid\\debug\\folders\\1000\\5\\slice_4\\classes.dex

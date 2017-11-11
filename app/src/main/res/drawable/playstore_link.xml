@@ -1,0 +1,6 @@
+<bitmap xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:src="@drawable/playstore_icon"
+    android:alpha="0.2"
+    >
+</bitmap>

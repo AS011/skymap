@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    >
+    <ImageView
+        android:src="@drawable/wallpaper"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:id="@+id/imageView2"
+        android:scaleType="centerCrop"/>
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TextView
+                android:text="Our Services"
+                android:textSize="25sp"
+                android:textColor="#8ddef3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10sp"
+                android:id="@+id/textView2"/>
+
+            <TextView
+                android:text="Star Gazing Tours:"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/textView2"
+                android:layout_marginLeft="20dip"
+                android:layout_marginRight="20dip"
+                android:layout_marginTop="35dp"
+                android:textSize="20sp"
+                android:textColor="#8df39b"
+                android:id="@+id/textView3"/>
+
+            <TextView
+                android:text="Our famous locations:"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/textView3"
+                android:layout_alignLeft="@+id/textView3"
+                android:layout_alignStart="@+id/textView3"
+                android:layout_marginTop="22dp"
+                android:textSize="20sp"
+                android:textColor="#8df39b"
+                android:id="@+id/textView4"/>
+
+            <TextView
+                android:text="1. Chopta,Deoriatal"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/textView4"
+                android:layout_alignLeft="@+id/textView4"
+                android:layout_alignStart="@+id/textView4"
+                android:layout_marginTop="22dp"
+                android:textSize="20sp"
+                android:textColor="#8df39b"
+                android:id="@+id/textView5"/>
+
+            <TextView
+                android:text="One of the best places for stargazing in Uttarakhand."
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/textView5"
+                android:layout_alignLeft="@+id/textView5"
+                android:layout_alignStart="@+id/textView5"
+                android:layout_marginTop="10dip"
+                android:textSize="18sp"
+                android:textColor="#8ddef3"
+                android:id="@+id/textView8"/>
+
+            <TextView
+                android:text="2. Rishikesh"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/textView8"
+                android:layout_alignLeft="@+id/textView8"
+                android:layout_alignStart="@+id/textView8"
+                android:layout_marginTop="10dip"
+                android:textSize="20sp"
+                android:textColor="#8df39b"
+                android:id="@+id/location2"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/location2"
+                android:layout_alignLeft="@+id/location2"
+                android:layout_alignStart="@+id/location2"
+                android:id="@+id/textView9"
+                android:layout_marginTop="10dip"
+                android:textSize="18sp"
+                android:textColor="#8ddef3"
+                android:text=" As the stars come up, you can soak in the warmth and familiarity of a shared camp fire. It is best to visit during summer as the region gets very cold in winter."
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/textView9"
+                android:layout_alignLeft="@+id/textView9"
+                android:layout_alignStart="@+id/textView9"
+                android:layout_marginTop="10dip"
+                android:textSize="20sp"
+                android:textColor="#8df39b"
+                android:text="3. Bir Billing"
+                android:id="@+id/location3"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/location3"
+                android:layout_alignLeft="@+id/location3"
+                android:layout_alignStart="@+id/location3"
+                android:layout_marginTop="10dip"
+                android:textSize="18sp"
+                android:textColor="#8ddef3"
+                android:text="One of the most irresistable skies."
+                android:id="@+id/des3"/>
+
+
+            <TextView
+                android:text="4. Nubra Valley, Leh- Ladakh "
+                android:textSize="20sp"
+                android:textColor="#8df39b"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/des3"
+                android:layout_alignLeft="@+id/des3"
+                android:layout_alignStart="@+id/des3"
+                android:layout_marginTop="10dip"
+                android:id="@+id/location4"/>
+
+            <TextView
+                android:text="Ladakh is one of the best places for stargazing in India. Fulfill your stargazing dreams with unparalleled views of the night sky at Nubra Valley, Ladakh."
+                android:textSize="18sp"
+                android:textColor="#8ddef3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/location4"
+                android:layout_alignLeft="@+id/location4"
+                android:layout_alignStart="@+id/location4"
+                android:layout_marginTop="10dip"
+                android:id="@+id/textView7"/>
+
+            <TextView
+                android:text="5. White desert of Kutch, Gujarat"
+                android:textSize="20sp"
+                android:textColor="#8df39b"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/textView7"
+                android:layout_alignLeft="@+id/textView7"
+                android:layout_alignStart="@+id/textView7"
+                android:layout_marginTop="15dp"
+                android:id="@+id/location5"/>
+
+            <TextView
+                android:text="The great Rann of Kutch is the largest salt marsh in the world. Here, one can experience a strange light phenomena known as Chir Bhatti (Ghost lights) as well as beautiful views of the night sky."
+                android:textSize="18sp"
+                android:textColor="#8ddef3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/location5"
+                android:layout_alignLeft="@+id/location5"
+                android:layout_alignStart="@+id/location5"
+                android:layout_marginTop="10dip"
+                android:id="@+id/textView11"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="20sp"
+                android:layout_marginTop="100dp"
+                android:textColor="#8df39b"
+                android:id="@id/textView10"
+                android:text="Gist of Workshop:
+Strengthen or build your Design skillset. Increase your credibility and
+perceived competence among colleagues, clients, and managers. Through hands-on
+demonstrations and real-world case studies, participants will leave this workshop with a bird’s
+eye view of the many powerful tools and techniques that produce remarkable product and user
+experience design.
+If you want to conduct workshops in your distinct location, fill this out:"
+                android:layout_below="@+id/textView11"
+                android:layout_alignLeft="@+id/textView11"
+                android:layout_alignStart="@+id/textView11"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="18sp"
+                android:layout_marginTop="10dp"
+                android:textColor="#8ddef3"
+                android:text="https://docs.google.com/forms/d/1VTMmpROAZZbEGj1Ms9Ax8itOTh6Db2LHL2eojzWRa0s/edit?usp=drivesdk"
+                android:layout_below="@+id/textView10"
+                android:layout_alignLeft="@+id/textView10"
+                android:autoLink="web"
+                android:layout_alignStart="@+id/textView10"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Workshops:"
+                android:textSize="25sp"
+                android:textColor="#8ddef3"
+                android:id="@+id/textView15"
+                android:layout_below="@+id/textView11"
+                android:layout_alignLeft="@+id/textView10"
+                android:layout_alignStart="@+id/textView10"
+                android:layout_marginTop="41dp"
+                android:autoLink="web"/>
+
+
+        </RelativeLayout>
+    </ScrollView>
+
+</RelativeLayout>

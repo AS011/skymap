@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="popular_date_examples">
+        <item>Jetzt</item>
+        <item>Sonnenuntergang am nächsten Abend</item>
+        <item>Sonnenaufgang am nächsten Morgen</item>
+        <item>Nächster Vollmond</item>
+        <item>Mercury transit of May 09, 2016</item>
+        <item>Sonnenfinsternis am Aug 21, 2017</item>
+        <item>Sonnenfinsternis am March 9, 2016</item>
+        <item>Sonnenfinsternis am 29. Mai 1919</item>
+        <item>Apollo 11-Mondlandung</item>
+    </string-array>
+    <string-array name="sensor_damping">
+        <item>Jumpy</item>
+        <item>Medium</item>
+        <item>Standard</item>
+        <item>Hoch</item>
+    </string-array>
+    <string-array name="sensor_speed">
+        <item>Langsam</item>
+        <item>Standard</item>
+        <item>Schnell</item>
+    </string-array>
+    <string msgid="4770915072144378781" name="common_google_play_services_api_unavailable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> erfordert einen oder mehrere Google Play-Dienste, der bzw. die derzeit nicht verfügbar sind. Bitte wende dich an den Entwickler, um Unterstützung zu erhalten."</string>
+    <string msgid="2050101795821476669" name="common_google_play_services_enable_button">"Google Play-Dienste aktivieren"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> funktioniert erst nach der Aktivierung der Google Play-Dienste."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Google Play-Dienste aktivieren"</string>
+    <string msgid="7118643132557593940" name="common_google_play_services_install_button">"Google Play-Dienste installieren"</string>
+    <string msgid="1666261992894286769" name="common_google_play_services_install_text_phone">"Zur Nutzung von <ns1:g id="APP_NAME">%1$s</ns1:g> sind Google Play-Dienste erforderlich, die auf deinem Smartphone nicht installiert sind."</string>
+    <string msgid="1701766622451829291" name="common_google_play_services_install_text_tablet">"Zur Nutzung von <ns1:g id="APP_NAME">%1$s</ns1:g> sind Google Play-Dienste erforderlich, die auf deinem Tablet nicht installiert sind."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Google Play-Dienste installieren"</string>
+    <string msgid="479501935061677276" name="common_google_play_services_invalid_account_text">"Das angegebene Konto ist auf diesem Gerät nicht vorhanden. Bitte wähle ein anderes Konto aus."</string>
+    <string msgid="5775407690646375078" name="common_google_play_services_invalid_account_title">"Ungültiges Konto"</string>
+    <string msgid="6857745590248226927" name="common_google_play_services_network_error_text">"Um eine Verbindung zu den Google Play-Diensten herzustellen, ist eine Datenverbindung erforderlich."</string>
+    <string msgid="4183541461338112307" name="common_google_play_services_network_error_title">"Netzwerkfehler"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Fehler bei Zugriff auf Google Play-Dienste"</string>
+    <string msgid="8897126254633757462" name="common_google_play_services_resolution_required_text">"Bitte schließe die für <ns1:g id="APP_NAME">%1$s</ns1:g> erforderliche Aktion ab."</string>
+    <string msgid="7524004365913123453" name="common_google_play_services_resolution_required_title">"Aktion für Google Play-Dienste notwendig"</string>
+    <string msgid="3111284987662714014" name="common_google_play_services_restricted_profile_text">"Der Zugriff auf Konten von eingeschränkten Profilen wird nicht unterstützt."</string>
+    <string msgid="8137798410446890929" name="common_google_play_services_restricted_profile_title">"Eingeschränktes Profil"</string>
+    <string msgid="2431909537598981235" name="common_google_play_services_sign_in_failed_text">"Fehler beim Anmelden im angegebenen Konto. Bitte wähle ein anderes Konto aus."</string>
+    <string msgid="4402642931312190213" name="common_google_play_services_sign_in_failed_title">"Anmeldung fehlgeschlagen"</string>
+    <string msgid="9089562800660647919" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> hat Probleme mit Google Play-Diensten. Wenn das Problem weiterhin besteht, kontaktiere bitte den Entwickler."</string>
+    <string msgid="1064791666906610763" name="common_google_play_services_unsupported_text">"Zur Nutzung von <ns1:g id="APP_NAME">%1$s</ns1:g> sind Google Play-Dienste erforderlich. Diese werden auf deinem Gerät jedoch nicht unterstützt. Wende dich für weitere Informationen an den Hersteller."</string>
+    <string msgid="539866123733096737" name="common_google_play_services_unsupported_title">"Google Play-Dienste"</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Aktualisieren"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> wird nur ausgeführt, wenn du die Google Play-Dienste aktualisierst."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Google Play-Dienste aktualisieren"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"Zur Nutzung von <ns1:g id="APP_NAME">%1$s</ns1:g> sind Google Play-Dienste erforderlich, die gerade aktualisiert werden."</string>
+    <string msgid="2270671469198016014" name="common_google_play_services_updating_title">"Google Play-Dienste werden aktualisiert"</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Eine neue Version der Google Play-Dienste wird benötigt. Diese wird in Kürze automatisch aktualisiert."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Auf Smartphone öffnen"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Anmelden"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Über Google anmelden"</string>
+    <string name="help_text" translation_description="Please do not change the &lt; and > markup">&lt;big>&lt;b>Sky Map für Android&lt;/b>&lt;/big>&lt;br/>
+&lt;i>Version %s&lt;/i>&lt;br/>
+
+&lt;i>https://github.com/sky-map-team/stardroid&lt;/i>&lt;br/>&lt;br/>
+
+&lt;b>Einführung und Schnellstart&lt;/b>&lt;br/>
+Sky Map verwandelt Ihr Android-Handy in ein Fenster zum Nachthimmel. Sobald Sie Ihr Handy nach oben richten, sehen Sie eine Karte mit den hellsten Sternen, Konstellationen und Planeten in diesem Himmelsabschnitt.&lt;br/>Wenn Sie das nächste Mal einen hellen Stern sehen und wissen möchten, wie er heißt, fragen Sie einfach Sky Map!&lt;br/>
+
+&lt;b>Sichtbare Ebenen&lt;/b>&lt;br/>
+
+Sky Map organisiert die dargestellten Objekte in Ebenen. Mithilfe der Bildschirmsteuerelemente können Sie zwischen den Ebenen wechseln. Folgende Ebenen sind verfügbar:&lt;br/>
+      Sterne&lt;br/>
+      Konstellationen&lt;br/>
+      Messier-Objekte&lt;br/>
+      Planeten&lt;br/>
+      Rektazension und Deklination&lt;br/>
+      Horizont und Himmelsrichtungen&lt;br/>&lt;br/>
+Die hellsten Sterne und bekanntesten Konstellationen sowie die Planeten sind benannt. Die Planeten werden mit extragroßen Abbildungen dargestellt. Der Horizont wird als gerade Linie angezeigt. Sky Map zeigt Ihnen wahrscheinlich auch Objekte über der Horizontlinie, die Sie nur sehen können, wenn Ihnen keine Gebäude die Sicht versperren und die Landschaft völlig flach ist.&lt;br/>&lt;br/>
+
+&lt;b>Bildschirmsteuerelemente&lt;/b>&lt;br/>
+Tippen Sie auf den Bildschirm, um die Steuerelemente anzuzeigen. Auf der einen Seite befinden sich die Umschaltflächen zum Wechseln der Ebenen. Sie sind orange, wenn die Ebenen aktiviert sind, und weiß, falls sie nicht aktiviert sind.&lt;br/>
+
+Am unteren Bildschirmrand befinden sich die Zoomsteuerelemente und eine Umschaltfläche zum Wechsel zwischen automatischem und manuellem Modus.&lt;br/>&lt;br/>
+&lt;b>Navigationsmodi&lt;/b>&lt;br/>
+Nach der Erstinstallation befindet sich Sky Map im automatischen Modus und verwendet die Sensoren des Telefons, um Ihnen eine Karte des Himmelsabschnitts zu zeigen, auf den Sie Ihr Handy richten. Durch den Wechsel in den manuellen Modus können Sie die Karte mit Ihrem Finger ziehen, um den Himmel weiter zu erforschen. Bewegen Sie den Trackball oder das Steuerkreuz nach links und rechts, um die Karte zu drehen. Auf Geräten mit Mehrfingereingabe können Sie die Karte auch mit zwei Fingern drehen und durch Auf- und Zuziehen der Finger heran- und herauszoomen.
+&lt;br/>&lt;br/>
+
+&lt;b>Suche&lt;/b>&lt;br/>
+Sie möchten wissen, wie dieser Stern dort oben heißt? Sky Map gibt Ihnen die Antwort. Sky Map kann Ihnen auch sagen, wo sich ein bestimmtes Objekt befindet. Rufen Sie die Suchfunktion über die Menütaste Ihres Telefons oder direkt über das Schnellsuchfeld auf dem Bildschirm auf. Beginnen Sie mit der Eingabe eines Planeten-, Sternen- oder Konstellationennamens. Sky Map zeigt Ihnen dann eine Liste passender Suchelemente an. Nachdem Sie ein Suchergebnis ausgewählt haben, zeigt Ihnen Sky Map anhand eines Zielkreises und eines Pfeils, wohin Sie Ihr Telefon bewegen müssen, um das Objekt zu finden. Sobald Sie in der Nähe des Ziels sind, wechselt der Kreis von blau zu rot und wird schließlich orange, wenn sich das Objekt in Ihrem Sichtfeld befindet.&lt;br/>
+Hinweis: Im manuellen Modus verschiebt Sky Map einfach die Karte, um Ihnen das Objekt zu zeigen.\n Tippen Sie zum Verlassen des Suchmodus auf das kleine Kreuz in der Ecke des Bildschirms.&lt;br/>
+Tippen Sie zum Verlassen des Suchmodus auf das kleine Kreuz in der Ecke des Bildschirms.&lt;br/>&lt;br/>
+
+&lt;b>Zeitreise (Neu!)&lt;/b>&lt;br/>
+
+Mithilfe des Zeitreisemodus von Sky Map haben Sie die Möglichkeit, den Himmel auch vor oder nach dem aktuellen Zeitpunkt zu betrachten. Wählen Sie \"Zeitreise\" aus dem Hauptmenü und wählen Sie dann einen der beliebten Tage. In den Dialogfeldern \"Datum ändern\" und \"Uhrzeit ändern\" können Sie auch Ihr eigenes Datum und eine eigene Uhrzeit bestimmen. Aus Gründen der Genauigkeit, in erster Line bedingt durch die Gravitationseinflüsse durch den Jupiter, ist die Auswahl auf die Jahre 1900 - 2100 beschränkt. Klicken Sie abschließend auf \"Los!\", um die Zeitreise zu beginnen. Sky Map befindet sich daraufhin im Zeitreisemodus und zeigt das von Ihnen besuchte Datum an. Mithilfe der Steuerelemente können Sie sich von dort aus vor- und rückwärts in der Zeit bewegen. Klicken Sie einmal auf diese Schaltflächen, um sich langsam durch die Zeit zu bewegen, und mehrmals, um die Geschwindigkeit zu erhöhen.&lt;br/>
+
+Mit der Zeitreise können zum Beispiel folgende Fragen beantwortet werden: \"Was kann ich direkt heute Abend nach Sonnenuntergang sehen?\", \"Wann habe ich das nächste Mal gute Chancen, den Merkur zu sehen?\" und \"Wann sollte ich laut Hesiod mit der Weinlese beginnen?\"&lt;br/>&lt;br/>
+
+&lt;b>Hubble-Galerie&lt;/b>&lt;br/>
+Sky Map enthält einen Teil der Hubble-Galerie von Sky Map. Nachdem Sie die Galerie über die entsprechende Option im Menü aufgerufen haben, können Sie die verfügbaren Bilder durchsuchen, indem Sie mit dem Finger durchscrollen. Wenn Sie auf eine Miniaturansicht tippen, zeigt Sky Map das Bild im Vollbildmodus an. Wenn Sie auf die Suchschaltfläche tippen, wechselt Sky Map in den Suchmodus und sucht nach dem zu dem Bild passenden Objekt.&lt;br/>&lt;br/>
+
+&lt;b>Nachtsichtmodus&lt;/b>&lt;br/>
+Der Nachtsichtmodus dient dem Schutz Ihrer an die Dunkelheit angepassten Augen. Bei Auswahl des Nachtsichtmodus zeigt Sky Map alles in Rottönen an. Wählen Sie die Option erneut aus, um wieder zu den normalen Farben zu wechseln.&lt;br/>&lt;br/>
+
+&lt;b>Festlegen Ihres Standorts&lt;/b>&lt;br/>
+Sky Map benötigt Ihren ungefähren Standort, um Ihnen die richtige Sternenkarte zeigen zu können. Standardmäßig wird Ihr Standort über Ihr Mobilfunknetz bestimmt. Falls Sie sich außer Reichweite befinden oder die Netzwerkstandortbestimmung deaktiviert haben, verwendet Sky Map das GPS Ihres Telefons. Sie können Ihren Standort in den Einstellungen auch manuell festlegen, entweder durch die Angabe eines Ortsnamens oder des Längen- und Breitengrades. Beachten Sie, dass Sky Map eine Datenverbindung benötigt, um anhand eines Ortsnamens Ihren Längen- und Breitengrad zu bestimmen.&lt;br/>&lt;br/>
+
+&lt;b>Problembehebung und Beschränkungen&lt;/b>&lt;br/>
+&lt;i>Die Karte ist ungenau.&lt;/i>&lt;br/>
+Falls die Karte den Himmel Ihrer Ansicht nach nicht korrekt darstellt, kann dies mehrere Ursachen haben:&lt;br/>
+1) Ist Ihr Kompass kalibriert? Nehmen Sie das Telefon in die Hand und bewegen Sie es in Form einer Acht, um es zu kalibrieren. Sie müssen dies möglicherweise gelegentlich wiederholen. Dies ist eher eine Funktion des Telefons als von Sky Map.&lt;br/>
+2) Kennt die Anwendung Ihren genauen Standort? Ist Ihr GPS bzw. Ihr Netzwerkstandort aktiviert?&lt;br/>
+3) Haben Sie die richtige Uhrzeit und die richtige Zeitzone ausgewählt? Sky Map muss die Universalzeit berechnen und benötigt dazu Ihre Ortszeit UND Ihre Zeitzone. Falls Sie in Ihrem Gerät eine SIM-Karte verwenden, ist diese normalerweise korrekt eingestellt.&lt;br/>
+4) Ist die magnetische Korrektur aktiviert? In einigen Teilen der Erde kann die Abweichung zwischen dem magnetischen und dem geografischen Nordpol bis zu 20 Grad betragen.&lt;br/>
+&lt;i>Die Karte bewegt sich nicht.&lt;/i>&lt;br/>
+Befinden Sie sich im manuellen Modus? Falls nicht, ist der Kompass möglicherweise nicht kalibriert. Führen Sie die oben beschriebenen Schritte aus, um ihn zu kalibrieren.&lt;br/>&lt;br/>
+
+&lt;b>Mitwirkung&lt;/b>&lt;br/>
+&lt;i>Engineering und Design&lt;/i>&lt;br/>
+Brent Bryan, Dominic Widdows, Hector Ouilhet, James Powell, John Taylor,
+Kevin Serafini&lt;br/>
+
+&lt;i>Produktmanagement&lt;/i>&lt;br/>
+Lior Ron&lt;br/>
+
+&lt;i>Public Relations&lt;/i>&lt;br/>
+Aaron Stein, Erin Gleason&lt;br/>
+
+&lt;i>Produktmarketing&lt;/i>&lt;br/>
+Effie Seiberg, Linda Tong&lt;br/>
+
+&lt;i>Übersetzungen&lt;/i>&lt;br/>
+Jelena Oertel&lt;br/>&lt;br/>
+
+
+&lt;b>Danksagung&lt;/b>&lt;br/>
+Sky Map basiert auf Daten von:&lt;br/>
+Centre de Données astronomiques de Strasbourg (http://cdsweb.u-strasbg.fr/)&lt;br/>
+The Bright Star Catalogue, 5th Revised Ed. (Hoffleit D., Warren Jr W.H.)&lt;br/>
+The HYG Database, HYG v1.0. (http://www.astronexus.com/)&lt;br/>
+History and Accurate Positions for the NGC/IC Objects (Harold G. Corwin Jr)&lt;br/>
+Revised New General Catalogue of Nonstellar Astronomical Objects
+(Sulentic J.W., Tifft W.G.)&lt;br/>
+SFA Star Charts
+(http://observe.phy.sfasu.edu/SFAStarCharts/SFAStarChartFAQ.html)&lt;br/>
+Die Positionen der Objekte im Sonnensystem wurden anhand von Daten des USNO (http://www.usno.navy.mil/USNO/astronomical-applications) berechnet.&lt;br/>
+Die Daten zur sphärischen Darstellung stammen von (http://www2.research.att.com/~njas/coverings).&lt;br/>
+Die Hubble-Bilder werden bereitgestellt vom NASA Space Telescope Science Institute
+(http://hubblesite.org/).&lt;br/></string>
+    <string name="language_apology_text" translation_description="Apology for missing translations in this language and appeal for help.">
+        Lieber Astronom. Wir entschuldigen uns für die englischen Wörter in SkyMap. SkyMap wird von Freiwilligen gepflegt. Leider haben wir keine vollständigen Übersetzungen in allen Sprachen. Wenn Sie für Ihre Sprache helfen können, begrüßen wir fehlende oder korrigierte Übersetzungen.
+    </string>
+</resources>

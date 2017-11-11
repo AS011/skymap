@@ -1,0 +1,8 @@
+<bitmap xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:src="@drawable/facebook_box2"
+    android:alpha="0.20"
+    >
+
+
+</bitmap>

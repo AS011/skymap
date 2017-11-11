@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable-xxhdpi/cover.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable-xxhdpi/cover.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable-xxhdpi\\cover.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable-xxhdpi\\cover.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable-xxhdpi/skymap_logo.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable-xxhdpi/skymap_logo.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable-xxhdpi/ic_launcher.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable-xxhdpi\\ic_launcher.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/drawable-xxhdpi/sci_comm_logo.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable-xxhdpi/sci_comm_logo.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable-xxhdpi\\sci_comm_logo.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable-xxhdpi\\sci_comm_logo.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\drawable-xxhdpi\\skymap_logo.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable-xxhdpi\\skymap_logo.png"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-hdpi\\skymap_logo.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable-hdpi\\skymap_logo.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-hdpi\\cover.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable-hdpi\\cover.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/debug/drawable-hdpi/cover.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable-hdpi/cover.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/debug/drawable-hdpi/sci_comm_logo.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable-hdpi/sci_comm_logo.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/debug/drawable-hdpi/skymap_logo.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/drawable-hdpi/skymap_logo.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-hdpi\\sci_comm_logo.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable-hdpi\\sci_comm_logo.png"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    }
+]

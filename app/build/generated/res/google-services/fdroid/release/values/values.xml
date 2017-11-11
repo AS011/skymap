@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">278059778702-j28a5ms5gqsgai5mt7uad403c3719psf.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://vasagaze.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">278059778702</string>
+    <string name="google_api_key" translatable="false">AIzaSyCQMXY3npSjun7K_LEHHEsiZP4hj3fScLg</string>
+    <string name="google_app_id" translatable="false">1:278059778702:android:153aec83621de52b</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCQMXY3npSjun7K_LEHHEsiZP4hj3fScLg</string>
+    <string name="google_storage_bucket" translatable="false">vasagaze.appspot.com</string>
+    <string name="project_id" translatable="false">vasagaze</string>
+</resources>

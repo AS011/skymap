@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="popular_date_examples">
+        <item>Nu</item>
+        <item>Volgende zonsondergang</item>
+        <item>Volgende zonsopgang</item>
+        <item>Volgende volle maan</item>
+        <item>Mercury transit of May 09, 2016</item>
+        <item>Zonsverduistering van Aug 21, 2017</item>
+        <item>Zonsverduistering van March 9, 2016</item>
+        <item>Zonsverduistering van 29 mei 1919</item>
+        <item>Maanlanding van de Apollo 11</item>
+    </string-array>
+    <string-array name="sensor_damping">
+        <item>Jumpy</item>
+        <item>Medium</item>
+        <item>Standaard</item>
+        <item>Hoog</item>
+    </string-array>
+    <string-array name="sensor_speed">
+        <item>Langzaam</item>
+        <item>Standaard</item>
+        <item>Snel</item>
+    </string-array>
+    <string msgid="4770915072144378781" name="common_google_play_services_api_unavailable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> vereist een of meer Google Play-services die momenteel niet beschikbaar zijn. Neem contact op met de ontwikkelaar voor ondersteuning."</string>
+    <string msgid="2050101795821476669" name="common_google_play_services_enable_button">"Google Play-services inschak."</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> werkt niet, tenzij je Google Play-services inschakelt."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Google Play-services inschakelen"</string>
+    <string msgid="7118643132557593940" name="common_google_play_services_install_button">"Google Play-services ophalen"</string>
+    <string msgid="1666261992894286769" name="common_google_play_services_install_text_phone">"<ns1:g id="APP_NAME">%1$s</ns1:g> kan niet worden uitgevoerd zonder Google Play-services, die ontbreken op je telefoon."</string>
+    <string msgid="1701766622451829291" name="common_google_play_services_install_text_tablet">"<ns1:g id="APP_NAME">%1$s</ns1:g> kan niet worden uitgevoerd zonder Google Play-services, die ontbreken op je tablet."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Google Play-services ophalen"</string>
+    <string msgid="479501935061677276" name="common_google_play_services_invalid_account_text">"Het gespecificeerde account bestaat niet op dit apparaat. Kies een ander account."</string>
+    <string msgid="5775407690646375078" name="common_google_play_services_invalid_account_title">"Ongeldig account"</string>
+    <string msgid="6857745590248226927" name="common_google_play_services_network_error_text">"Er is een gegevensverbinding nodig om verbinding te maken met Google Play-services."</string>
+    <string msgid="4183541461338112307" name="common_google_play_services_network_error_title">"Netwerkfout"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Fout met Google Play-services"</string>
+    <string msgid="8897126254633757462" name="common_google_play_services_resolution_required_text">"Voltooi de actie die wordt vereist door <ns1:g id="APP_NAME">%1$s</ns1:g>."</string>
+    <string msgid="7524004365913123453" name="common_google_play_services_resolution_required_title">"Actie vereist voor Google Play-services"</string>
+    <string msgid="3111284987662714014" name="common_google_play_services_restricted_profile_text">"Toegang tot accounts uit een beperkt profiel wordt niet ondersteund."</string>
+    <string msgid="8137798410446890929" name="common_google_play_services_restricted_profile_title">"Beperkt profiel"</string>
+    <string msgid="2431909537598981235" name="common_google_play_services_sign_in_failed_text">"Fout bij inloggen op het opgegeven account. Kies een ander account."</string>
+    <string msgid="4402642931312190213" name="common_google_play_services_sign_in_failed_title">"Inloggen mislukt"</string>
+    <string msgid="9089562800660647919" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> ondervindt problemen met Google Play-services. Als het probleem aanhoudt, neem je contact op met de ontwikkelaar voor ondersteuning."</string>
+    <string msgid="1064791666906610763" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> werkt met Google Play-services. Dit wordt niet ondersteund door je apparaat. Neem contact op met de fabrikant voor ondersteuning."</string>
+    <string msgid="539866123733096737" name="common_google_play_services_unsupported_title">"Google Play-services"</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Updaten"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> kan niet worden uitgevoerd, tenzij je Google Play-services updatet."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Google Play-services updaten"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> kan niet worden uitgevoerd zonder Google Play-services, die momenteel worden geüpdatet."</string>
+    <string msgid="2270671469198016014" name="common_google_play_services_updating_title">"Google Play-services worden geüpdatet"</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Er is een nieuwe versie van Google Play-services vereist. De update wordt binnenkort automatisch uitgevoerd."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Openen op telefoon"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Inloggen"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Inloggen met Google"</string>
+    <string name="help_text" translation_description="Please do not change the &lt; and > markup">&lt;big>&lt;b>Sky Map voor Android&lt;/b>&lt;/big>&lt;br/>
+&lt;i>Versie %s&lt;/i>&lt;br/>
+
+&lt;i>https://github.com/sky-map-team/stardroid&lt;/i>&lt;br/>&lt;br/>
+
+&lt;b>Inleiding en snelle startgids&lt;/b>&lt;br/>
+Sky Map maakt van uw Android-telefoon een venster op de sterrenhemel. Wanneer u uw telefoon omhoog richt, krijgt u een kaart te zien van de helderste sterren, sterrenbeelden en planeten in dat gedeelte van de sterrenhemel.&lt;br/>Als u nu een heldere ster ziet en wilt weten hoe deze heet, kunt u Sky Map gebruiken!&lt;br/>
+
+&lt;b>Zichtbare lagen&lt;/b>&lt;br/>
+
+Sky Map organiseert de objecten die u kunt bekijken in lagen. Elke laag kan worden in- of uitgeschakeld in het scherm. De lagen zijn:&lt;br/>
+      Sterren&lt;br/>
+      Sterrenbeelden&lt;br/>
+      Messier-objecten&lt;br/>
+      Planeten&lt;br/>
+      Rechte klimming en declinatieraster&lt;br/>
+      Horizon en windstreken&lt;br/>&lt;br/>
+De helderste sterren en duidelijkste sterrenbeelden zijn gelabeld, evenals de planeten. De planeten worden groter weergegeven dan hun ware formaat. De horizon wordt weergegeven als een rechte lijn. Tenzij u ergens woont waar het landschap volledig vlak is en er geen gebouwen staan, ziet u in Sky Map waarschijnlijk objecten vlak boven de horizon die u in het echt niet kunt zien.&lt;br/>&lt;br/>
+
+&lt;b>Schermbediening&lt;/b>&lt;br/>
+Tik op het scherm om de schermbedieningselementen weer te geven. Aan de zijkant van het scherm kunt u de hierboven beschreven lagen in- en uitschakelen. De markering is oranje wanneer lagen zijn ingeschakeld en wit wanneer ze zijn uitgeschakeld.&lt;br/>
+
+Onder aan het scherm vindt u zoomopties en een schakelmogelijkheid voor de automatische en handmatige modus.&lt;br/>&lt;br/>
+&lt;b>Navigatiemodussen&lt;/b>&lt;br/>
+Na het installeren bevindt Sky Map zich in de automatische modus en worden de sensoren van de telefoon gebruikt om een kaart weer te geven van de sterrenhemel in de richting waarin u uw telefoon heeft gericht. Wanneer u naar de handmatige modus overschakelt, kunt u de kaart met uw vinger verslepen om de sterrenhemel te verkennen. Verschuif de trackball of D-pad naar links en rechts om de kaart te draaien. Op multi-touch-telefoons kunt u de kaart ook draaien met twee vingers en een knijpbeweging maken om in of uit te zoomen.
+&lt;br/>&lt;br/>
+
+&lt;b>Zoeken&lt;/b>&lt;br/>
+Sky Map biedt u antwoord op de vraag: \'Welke ster is dat?\' U kunt ook antwoord krijgen op vragen zoals: \'Waar staat...?\' U kunt de zoekfunctie openen via de menuknop van uw telefoon of via het snelzoekvak op de startpagina. Begin de naam van een planeet, ster of sterrenbeeld te typen dat u wilt zoeken en Sky Map geeft een lijst met overeenkomende items weer. Selecteer een item en Sky Map geeft een doelcirkel en pijl weer zodat u kunt zien hoe u uw telefoon (en uzelf) moet draaien om het object te vinden. Naarmate u dichter bij het doel in de buurt komt, wordt de cirkel rood in plaats van blauw en uiteindelijk oranje wanneer het object zich in uw blikveld bevindt.&lt;br/>
+Als u de handmatige modus heeft ingeschakeld, verplaatst Sky Map de kaart om het object weer te geven.&lt;br/>
+Als u de zoekmodus wilt sluiten, tikt u op het kruisje in de hoek van het scherm.&lt;br/>&lt;br/>
+
+&lt;b>Tijdreizen (Nieuw!)&lt;/b>&lt;br/>
+
+In de tijdreismodus kunt u Sky Map gebruiken om de sterrenhemel op andere momenten dan het hier en nu te bekijken. Selecteer \'Tijdreizen\' in het hoofdmenu en selecteer vervolgens een van de populaire datums of kies uw eigen datum en tijd met de opties \'Datum wijzigen\' en \'Tijd wijzigen\'. U kunt een jaar kiezen tussen 1900 en 2100, omdat met name de aantrekkingskracht van Jupiter nauwkeurige berekeningen buiten deze periode moeilijk maakt. Druk wanneer u klaar bent op \'Ga!\' om door de tijd naar uw bestemming te reizen. Sky Map bevindt zich nu in de tijdreismodus en geeft de datum weer die u heeft ingesteld. U kunt vanaf hier de tijd vooruit of achteruit \'afspelen\'.
+Klik één keer op deze knoppen om langzaam door de tijd te reizen en meerdere keren om sneller en sneller te reizen.&lt;br/>
+
+Met de functie Tijdreizen kunt u verschillende vragen beantwoorden, zoals \'Wat kan ik vanavond vlak na zonsondergang zien?\', \'Wanneer zou ik Mercurius weer kunnen zien?\' en \'Wanneer zou ik volgens Hesiodos mijn druiven moeten oogsten?\'&lt;br/>&lt;br/>
+
+&lt;b>Hubble-galerij&lt;/b>&lt;br/>
+Sky Map bevat een selectie van de beelden uit de Hubble-galerij. U kunt de galerij openen door deze in het menu te selecteren. In de galerij kunt u door de beschikbare beelden bladeren door met uw vinger te schuiven. Als u op een van de miniaturen tikt, geeft Sky Map het beeld op volledig formaat weer. Als u op de zoekknop tikt, schakelt Sky Map naar de zoekmodus om het object te zoeken dat in het beeld wordt weergegeven.&lt;br/>&lt;br/>
+
+&lt;b>Nachtweergavemodus&lt;/b>&lt;br/>
+De nachtweergavemodus is bedoeld om uw ogen te beschermen als deze aan het donker gewend zijn. Wanneer u de nachtweergavemodus opent, geeft Sky Map de kaart in roodtinten weer, wordt het scherm gedimd en wordt de achtergrondverlichting van knoppen uitgeschakeld. Selecteer de optie opnieuw om alles weer in normale kleuren weer te geven.&lt;br/>&lt;br/>
+
+&lt;b>Uw locatie instellen&lt;/b>&lt;br/>
+Sky Map heeft uw geschatte locatie nodig om de juiste sterrenkaart te kunnen weergeven. Deze locatie wordt standaard gedetecteerd op basis van uw mobiele netwerk. Als u geen netwerkbereik heeft of netwerklocatiedetectie heeft uitgeschakeld, wordt de GPS-functie van uw telefoon gebruikt.
+U kunt uw locatie ook handmatig instellen via het instellingsmenu door een plaatsnaam op te geven of door een lengte- en breedtegraad op te geven (in graden). Sky Map heeft een gegevensverbinding nodig om uw lengte- en breedtegraad te kunnen bepalen aan de hand van een plaatsnaam.&lt;br/>&lt;br/>
+
+&lt;b>Problemen oplossen en beperkingen&lt;/b>&lt;br/>
+&lt;i>De kaart klopt niet.&lt;/i>&lt;br/>
+Als u merkt dat de kaart niet goed is uitgelijnd met de echte sterrenhemel, kan dit een aantal verschillende redenen hebben:&lt;br/>
+1) Is uw kompas gekalibreerd? Houd uw telefoon vast en draai achtjes met uw pols om de telefoon te kalibreren. Mogelijk moet u dit af en toe herhalen (dit is een functie van de telefoon, niet van Sky Map).&lt;br/>
+2) Heeft de toepassing uw locatie correct gedetecteerd? Is uw GPS- of netwerklocatiefunctie ingeschakeld?&lt;br/>
+3) Heeft u de juiste tijd en tijdzone ingesteld?
+Sky Map moet terugrekenen naar Universal Time en heeft uw tijd en tijdzone nodig om dit correct te doen. Als uw apparaat een SIM-kaart bevat, zijn tijd en tijdzone meestal correct ingesteld.&lt;br/>
+4) Heeft u de magnetische correctie ingeschakeld? In sommige delen van de wereld kan het verschil tussen het magnetische noorden en het ware noorden wel 20 graden zijn.&lt;br/>
+&lt;i>De kaart verschuift niet&lt;/i>&lt;br/>
+Heeft u de handmatige modus ingeschakeld? Zo niet, dan kan dit probleem worden veroorzaakt door een niet-gekalibreerd kompas.
+Volg de bovenstaande stappen om het te kalibreren.&lt;br/>&lt;br/>
+
+&lt;b>Credits&lt;/b>&lt;br/>
+&lt;i>Engineering en design&lt;/i>&lt;br/>
+Brent Bryan, Dominic Widdows, Hector Ouilhet, James Powell, John Taylor,
+Kevin Serafini&lt;br/>
+
+&lt;i>Productmanagement&lt;/i>&lt;br/>
+Lior Ron&lt;br/>
+
+&lt;i>Public Relations&lt;/i>&lt;br/>
+Aaron Stein, Erin Gleason&lt;br/>
+
+&lt;i>Productmarketing&lt;/i>&lt;br/>
+Effie Seiberg, Linda Tong&lt;br/>
+
+&lt;i>Vertalingen&lt;/i>&lt;br/>
+Jelena Oertel&lt;br/>&lt;br/>
+
+
+&lt;b>Bronnen&lt;/b>&lt;br/>
+Sky Map is gebaseerd op gegevens van:&lt;br/>
+Centre de Données astronomiques de Strasbourg (http://cdsweb.u-strasbg.fr/)&lt;br/>
+De Bright Star Catalogue, 5th Revised Ed. (Hoffleit D., Warren Jr W.H.)&lt;br/>
+De HYG Database, HYG v1.0. (http://www.astronexus.com/)&lt;br/>
+History and Accurate Positions for the NGC/IC Objects (Harold G. Corwin Jr)&lt;br/>
+Revised New General Catalogue of Nonstellar Astronomical Objects
+(Sulentic J.W., Tifft W.G.)&lt;br/>
+SFA Star Charts
+(http://observe.phy.sfasu.edu/SFAStarCharts/SFAStarChartFAQ.html)&lt;br/>
+Posities van objecten in het zonnestelsel worden berekend op basis van gegevens van de USNO
+(http://www.usno.navy.mil/USNO/astronomical-applications)&lt;br/>
+Gegevens voor panoramabeelden zijn afkomstig van
+(http://www2.research.att.com/~njas/coverings)&lt;br/>
+Hubble-beelden zijn afkomstig van het Space Telescope Science Institute van de NASA
+(http://hubblesite.org/)&lt;br/></string>
+    <string name="language_apology_text" translation_description="Apology for missing translations in this language and appeal for help.">
+        Beste Astronoom. Onze excuses voor het Engels woorden skymap. Skymap wordt onderhouden door vrijwilligers. Helaas hebben we geen volledige vertalingen in alle talen. Als u kan helpen in uw taal, we zijn blij met ontbrekende of gecorrigeerde vertalingen.
+    </string>
+</resources>

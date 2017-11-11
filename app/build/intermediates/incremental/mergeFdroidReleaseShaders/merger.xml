@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/shaders"/></dataSet><dataSet config="fdroid"><source path="/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/fdroid/shaders"/></dataSet><dataSet config="release"><source path="/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/release/shaders"/></dataSet><dataSet config="fdroidRelease"><source path="/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/fdroidRelease/shaders"/></dataSet></merger>

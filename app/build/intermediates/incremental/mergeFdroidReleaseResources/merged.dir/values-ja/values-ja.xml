@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="popular_date_examples">
+        <item>現在</item>
+        <item>次の日没</item>
+        <item>次の日の出</item>
+        <item>次の満月</item>
+        <item>Mercury transit of 2016-05-09</item>
+        <item>2017年8月21日の日食</item>
+        <item>2016年3月9日の日食</item>
+        <item>1919年5月29日の日食</item>
+        <item>アポロ11号の月面着陸</item>
+    </string-array>
+    <string-array name="sensor_damping">
+        <item>Jumpy</item>
+        <item>Medium</item>
+        <item>標準</item>
+        <item>高</item>
+    </string-array>
+    <string-array name="sensor_speed">
+        <item>低速</item>
+        <item>標準</item>
+        <item>高速</item>
+    </string-array>
+    <string msgid="4770915072144378781" name="common_google_play_services_api_unavailable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g>には現在利用されていないGoogle Play開発者サービスが必要です。詳しくはデベロッパーにお問い合わせください。"</string>
+    <string msgid="2050101795821476669" name="common_google_play_services_enable_button">"Play開発者サービスの有効化"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g>の実行には、Google Play開発者サービスの有効化が必要です。"</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Google Play開発者サービスの有効化"</string>
+    <string msgid="7118643132557593940" name="common_google_play_services_install_button">"Google Play開発者サービスを入手"</string>
+    <string msgid="1666261992894286769" name="common_google_play_services_install_text_phone">"<ns1:g id="APP_NAME">%1$s</ns1:g>の実行にはGoogle Play開発者サービスが必要ですが、お使いのスマートフォンにはインストールされていません。"</string>
+    <string msgid="1701766622451829291" name="common_google_play_services_install_text_tablet">"<ns1:g id="APP_NAME">%1$s</ns1:g>の実行にはGoogle Play開発者サービスが必要ですが、お使いのタブレットにはインストールされていません。"</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Google Play開発者サービスの入手"</string>
+    <string msgid="479501935061677276" name="common_google_play_services_invalid_account_text">"指定したアカウントはこの端末上に存在しません。別のアカウントを選択してください。"</string>
+    <string msgid="5775407690646375078" name="common_google_play_services_invalid_account_title">"無効なアカウント"</string>
+    <string msgid="6857745590248226927" name="common_google_play_services_network_error_text">"Google Play開発者サービスに接続するには、データ接続が必要です。"</string>
+    <string msgid="4183541461338112307" name="common_google_play_services_network_error_title">"ネットワークエラー"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Google Play開発者サービスのエラー"</string>
+    <string msgid="8897126254633757462" name="common_google_play_services_resolution_required_text">"<ns1:g id="APP_NAME">%1$s</ns1:g>に必要な操作を完了してください。"</string>
+    <string msgid="7524004365913123453" name="common_google_play_services_resolution_required_title">"Google Play 開発者サービスで操作が必要"</string>
+    <string msgid="3111284987662714014" name="common_google_play_services_restricted_profile_text">"制限付きプロフィールからのアカウントへのアクセスはサポートされていません。"</string>
+    <string msgid="8137798410446890929" name="common_google_play_services_restricted_profile_title">"制限付きプロフィール"</string>
+    <string msgid="2431909537598981235" name="common_google_play_services_sign_in_failed_text">"指定されたアカウントへのログイン中にエラーが発生しました。別のアカウントを選択してください。"</string>
+    <string msgid="4402642931312190213" name="common_google_play_services_sign_in_failed_title">"ログインできませんでした"</string>
+    <string msgid="9089562800660647919" name="common_google_play_services_unknown_issue">"「<ns1:g id="APP_NAME">%1$s</ns1:g>」でGoogle Play開発者サービスに問題が発生しています。問題が解決しない場合は、デベロッパーにお問い合わせください。"</string>
+    <string msgid="1064791666906610763" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g>に必要なGoogle Play開発者サービスは、お使いの端末ではサポートされていません。詳しくは端末メーカーにお問い合わせください。"</string>
+    <string msgid="539866123733096737" name="common_google_play_services_unsupported_title">"Google Play開発者サービス"</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"更新"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g>の実行にはGoogle Play開発者サービスの更新が必要です。"</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Google Play開発者サービスの更新"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"<ns1:g id="APP_NAME">%1$s</ns1:g>の実行にはGoogle Play開発者サービスが必要ですが、このサービスは現在更新中です。"</string>
+    <string msgid="2270671469198016014" name="common_google_play_services_updating_title">"Google Play開発者サービスの更新中"</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Google Play開発者サービスの新しいバージョンが必要です。まもなく自動更新されます。"</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"スマートフォンで開く"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"ログイン"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Googleにログイン"</string>
+    <string name="help_text" translation_description="Please do not change the &lt; and > markup">&lt;big>&lt;b>Android版Skyマップ&lt;/b>&lt;/big>&lt;br/>
+バージョン%s&lt;i>&lt;/i>&lt;br/>
+
+&lt;i>http://www.google.co.jp/sky/skymap&lt;/i>&lt;br/>&lt;br/>
+
+&lt;b>クイックスタートガイド&lt;/b>&lt;br/>
+Skyマップを使うと、Android搭載携帯で天体観測ができます。
+端末を空にかざすと、その方向にあるひときわ明るい
+星や星座を示す地図が表示されます。&lt;br/>輝く星を見てその名前を知りたくなったら、Skyマップで調べることができます。&lt;br/>
+
+&lt;b>表示可能なレイヤ&lt;/b>&lt;br/>
+
+Skyマップでは表示項目別のレイヤが用意されています。各レイヤは、
+画面上のコントロールを使用してON/OFFを切り替えることができます。レイヤには以下のものがあります:&lt;br/>
+      恒星&lt;br/>
+      星座&lt;br/>
+      メシエ天体&lt;br/>
+      惑星&lt;br/>
+      赤経と赤緯のグリッド&lt;br/>
+      地平線と基本方位&lt;br/>&lt;br/>
+ひときわ明るい恒星と有名な星座のほか、惑星についても名前が表示されます。
+惑星は実際に見えるより大きい画像で表示され、
+地平線は直線で表示されます。
+起伏や建物がある場所では見られないような
+地平線のすぐ近くの天体も、
+Skyマップでは表示できます。&lt;br/>&lt;br/>
+
+&lt;b>画面上のコントロール&lt;/b>&lt;br/>
+画面上のコントロールを表示するには画面をタップします。画面の片側に表示されるアイコンで、
+上記のレイヤを切り替えることができます。有効になっているレイヤはオレンジで、
+無効になっているレイヤは白で表示されます。&lt;br/>
+
+画面の下部にはズームコントロールと、自動と手動のモードを切り替えるコントロールが
+表示されます。&lt;br/>&lt;br/>
+&lt;b>ナビゲーションモード&lt;/b>&lt;br/>
+Skyマップを初めてインストールした時点では自動モードになっており、端末をかざした方向の
+天体地図が内蔵センサーに基づいて表示されます。手動モードに切り替えると、
+指で地図をドラッグして天空を移動できます。地図を回転するには、トラックボールや
+D-padを左右に動かします。マルチタッチ対応の携帯の場合は、
+2本の指でマップを回転させたり、ピンチ操作で拡大/縮小したりできます。
+&lt;br/>&lt;br/>
+
+&lt;b>検索&lt;/b>&lt;br/>
+Skyマップでは、見えている星の名前を知るだけでなく、
+目的の星の位置を探すこともできます。
+端末のMENUキー、またはデスクトップのクイック検索ボックスから
+直接検索機能を使用して、探したい惑星、恒星、星座の名前
+を入力していくと、入力中でも一致する天体の一覧が表示されます。
+天体を1つ選択すると、それを見つけるためのガイドとなる円と矢印がSkyマップに表示され、
+端末をどの方向に向けると天体が見つかるかがわかります。
+端末がその天体の方向に近づくと青で表示されていた円が赤になり、
+最終的にその天体が表示範囲に入ると円がオレンジになります。&lt;br/>
+手動モードで検索すると、
+天体地図が動いて直接その天体が表示されます。&lt;br/>
+検索モードを終了するには、画面の隅の小さい十字をタップします。&lt;br/>&lt;br/>
+
+&lt;b>タイムトラベル（New!）&lt;/b>&lt;br/>
+
+Skyマップのタイムトラベルモードを使うと過去や未来の夜空を見ることができます。
+メインメニューから[タイムトラベル]を選択し、
+[人気の日付]から日付を選ぶか
+[日付の変更]および[時刻の変更]ダイアログで日付を変更します。
+指定できる範囲は1900～2100年に限定されています。
+これは主に、木星の重力の影響によって誤差が生じるためです。
+設定が完了したら、[Go!]をタップして時間旅行に飛び立ちましょう。
+Skyマップがタイムトラベルモードに切り替わり、指定した日付の空が表示されます。
+コントロールを使って時間を巻き戻したり先に進めたりできます。
+ボタンを1回タップすると時間がゆっくり移り変わり始め、
+続けてタップすると時間の移り変わりがだんだん速くなります。&lt;br/>
+
+「今夜の日没後には何が見えるだろう」、
+「次に水星がきれいに見えるのはいつだろう」、
+このような疑問はタイムトラベルで解消できます。&lt;br/>&lt;br/>
+
+&lt;b>ハッブルギャラリー&lt;/b>&lt;br/>
+Skyマップには、Skyのハッブルギャラリーから厳選された画像が含まれています。
+ギャラリーにアクセスするにはメニューから[ギャラリー]を選択します。
+ギャラリーに入ったら画面をスクロールしながら画像を閲覧できます。
+サムネイル画像をタップするとフルサイズの画像が表示されます。
+[検索]ボタンをタップすると検索モードに切り替わり、
+その画像に写っている天体を検索できます。&lt;br/>&lt;br/>
+
+&lt;b>夜間モード&lt;/b>&lt;br/>
+夜間モードは、暗い所に慣れた目を保護するためのモードです。メニューから[夜間]
+オプションを選択すると、Skyマップがすべて赤で表示されて画面が少し暗くなり、
+ボタンのバックライトがOFFになります。
+元の色に戻すには、[夜間]をもう一度選択します。&lt;br/>&lt;br/>
+
+&lt;b>現在地の設定&lt;/b>&lt;br/>
+天体地図を正しく表示するためには、おおよその現在地情報が必要になります。
+初期設定では、端末のネットワーク位置情報から現在地が判断されます。
+圏外にいる場合や、ネットワーク位置情報を無効にしている場合、
+端末のGPSが使用されます。手動で現在地を設定することも可能で、
+[設定]メニューから地名または緯度と経度を指定します。
+Skyマップで地名から現在地の緯度と経度を調べるには
+データ接続が必要です。&lt;br/>&lt;br/>
+
+&lt;b>トラブルシューティングと制約&lt;/b>&lt;br/>
+地図が不正確である&lt;i>&lt;/i>&lt;br/>
+地図と実際の空が正確に一致しない場合、
+次のような原因が考えられます:&lt;br/>
+1)コンパスがずれている。コンパスを調整するには、端末を持って手首を8の字に
+回します。これを、間隔をおいて繰り返すことが必要な場合があります。
+これはSkyマップの機能ではなく、端末の機能です。&lt;br/>
+2)Skyマップで現在地を正確に把握できていない。GPSまたはネットワーク位置
+情報が有効になっていない。&lt;br/>
+3)正しい時刻とタイムゾーンを設定していない。
+Skyマップでは世界時を計算する必要があり、そのために現地時間と
+タイムゾーンの両方が必要になります。端末にSIMカードが装着されている場合、
+通常これは正しく設定されています。&lt;br/>
+4)磁気補正をONにしていない。地域によっては、
+磁北と真北の差は20度にもなります。&lt;br/>
+地図が動かない&lt;i>&lt;/i>&lt;br/>
+手動モードになっていませんか。手動モードではない場合、コンパスがずれていることが
+原因の可能性があります。上記の方法で調整してください。&lt;br/>&lt;br/>
+
+&lt;b>クレジット&lt;/b>&lt;br/>
+技術およびデザイン&lt;i>&lt;/i>&lt;br/>
+Brent Bryan、Dominic Widdows、Hector Ouilhet、James Powell、John Taylor、
+Kevin Serafini&lt;br/>
+
+製品管理&lt;i>&lt;/i>&lt;br/>
+Lior Ron&lt;br/>
+
+広報&lt;i>&lt;/i>&lt;br/>
+Aaron Stein、Erin Gleason&lt;br/>
+
+製品マーケティング&lt;i>&lt;/i>&lt;br/>
+Effie Seiberg、Linda Tong&lt;br/>
+
+翻訳&lt;i>&lt;/i>&lt;br/>
+Jelena Oertel&lt;br/>&lt;br/>
+
+
+&lt;b>謝辞&lt;/b>&lt;br/>
+Skyマップは下記のデータに基づいて作成しています:&lt;br/>
+Centre de Donnees astronomiques de Strasbourg（http://cdsweb.u-strasbg.fr/）&lt;br/>
+The Bright Star Catalogue, 5th Revised Ed.（Hoffleit D., Warren Jr W.H.）&lt;br/>
+The HYG Database, HYG v1.0.（http://www.astronexus.com/）&lt;br/>
+History and Accurate Positions for the NGC/IC Objects（Harold G. Corwin Jr）&lt;br/>
+Revised New General Catalogue of Nonstellar Astronomical Objects（Sulentic J.W.、Tifft W.G.）&lt;br/>
+SFA Star Charts（http://observe.phy.sfasu.edu/SFAStarCharts/SFAStarChartFAQ.html）&lt;br/>
+太陽系の天体の位置は、USNO
+（http://www.usno.navy.mil/USNO/astronomical-applications）
+が提供するデータに基づいて計算しています。&lt;br/>
+球面カバレッジのデータは
+（http://www2.research.att.com/~njas/coverings）
+に掲載されているものです。&lt;br/>
+ハッブルの画像は、NASAの宇宙望遠鏡科学研究所
+（http://hubblesite.org/）
+から提供されたものです。&lt;br/></string>
+    <string name="language_apology_text" translation_description="Apology for missing translations in this language and appeal for help.">
+        親愛なる天文学者。我々はSkyMapで英語の単語をお詫び申し上げます。 SkyMapはボランティアによって維持されています。残念ながら、私たちはすべての言語で完全な翻訳を持っていません。お使いの言語に役立つことができれば、我々は欠落または訂正翻訳を歓迎します。
+    </string>
+</resources>

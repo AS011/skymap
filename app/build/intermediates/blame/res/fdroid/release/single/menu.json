@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\release\\menu\\main.xml",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/release/menu/main.xml",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/menu/main.xml"
+    }
+]

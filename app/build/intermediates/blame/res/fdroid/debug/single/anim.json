@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/debug/anim/timetravelflash.xml",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/anim/timetravelflash.xml"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/debug/anim/fadein.xml",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/anim/fadein.xml"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\anim\\fadeout.xml",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\anim\\fadeout.xml"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\anim\\fastzoom.xml",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\anim\\fastzoom.xml"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/debug/anim/fastzoom.xml",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/anim/fastzoom.xml"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\anim\\fadein.xml",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\anim\\fadein.xml"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\anim\\timetravelflash.xml",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\anim\\timetravelflash.xml"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/res/merged/fdroid/debug/anim/fadeout.xml",
+        "source": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/anim/fadeout.xml"
+    }
+]

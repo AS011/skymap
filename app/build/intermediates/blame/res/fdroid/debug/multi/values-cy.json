@@ -1,0 +1,54 @@
+[
+    {
+        "outputFile": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/incremental/mergeFdroidDebugResources/merged.dir/values-cy/values-cy.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 13,
+                    "endOffset": 506
+                },
+                "from": {
+                    "file": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/values-cy/language_apology.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 4,
+                        "startOffset": 16,
+                        "endLine": 5,
+                        "endColumn": 13,
+                        "endOffset": 467
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\incremental\\mergeFdroidDebugResources\\merged.dir\\values-cy\\values-cy.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 13,
+                    "endOffset": 506
+                },
+                "from": {
+                    "file": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\values-cy\\language_apology.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 4,
+                        "startOffset": 16,
+                        "endLine": 5,
+                        "endColumn": 13,
+                        "endOffset": 467
+                    }
+                }
+            }
+        ]
+    }
+]

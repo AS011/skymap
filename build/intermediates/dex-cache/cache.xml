@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vaibhav Saini\.android\build-cache\5a58366cfbcf49a728de2ff9c114dabbc0f23c5b\output\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="C:\Users\Vaibhav Saini\AndroidStudioProjects\vasa_sky\app\build\intermediates\transforms\dex\fdroid\debug\folders\1000\10\internal_impl-24.0.0_acb12a07bde0e6757ce9a11326b31d54d071fd38\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vaibhav Saini\.android\build-cache\3fb9595e04b48f689b97f2b1c0b2400c98e4c2ba\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
+        <dex dex="C:\Users\Vaibhav Saini\AndroidStudioProjects\vasa_sky\app\build\intermediates\transforms\dex\fdroid\debug\folders\1000\10\classes_ed5c85e0e2a690c07d6b73d1ee5db672452287b9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vaibhav Saini\.android\build-cache\574825e346c0f3be0588aac4afd6b1617e97a00a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
+        <dex dex="C:\Users\Vaibhav Saini\AndroidStudioProjects\vasa_sky\app\build\intermediates\transforms\dex\fdroid\debug\folders\1000\10\classes_cca30742a4b017f4945a070eebb9e4f32b801ef6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vaibhav Saini\.android\build-cache\83fa65e361fe8461b951f3c15d507fbc0454ccbb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea4b54dcbfe5ac05efb0a314105f07258118d3a7">
+        <dex dex="C:\Users\Vaibhav Saini\AndroidStudioProjects\vasa_sky\app\build\intermediates\transforms\dex\fdroid\debug\folders\1000\10\classes_ad6776922032ea0b071c8bbbd0f38586c4c90452\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vaibhav Saini\AndroidStudioProjects\vasa_sky\app\build\intermediates\incremental-runtime-classes\fdroid\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Vaibhav Saini\AndroidStudioProjects\vasa_sky\app\build\intermediates\transforms\dex\fdroid\debug\folders\1000\10000\instant-run_ad74ecb1e28f9a980336dda8f30696053480e532\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vaibhav Saini\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="C:\Users\Vaibhav Saini\AndroidStudioProjects\vasa_sky\app\build\intermediates\transforms\dex\fdroid\debug\folders\1000\10\support-annotations-24.0.0_676ff62dd24e3b30c71e099cc2d07c6daae138c7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vaibhav Saini\.android\build-cache\1cda48e208138322a68f49a8800e2f375077fc51\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0dc8ab07eeceda5e99b305c8069765056b6e5c9d">
+        <dex dex="C:\Users\Vaibhav Saini\AndroidStudioProjects\vasa_sky\app\build\intermediates\transforms\dex\fdroid\debug\folders\1000\10\classes_690de93f00a3a2b00d8fe953e899eefc7c752773\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vaibhav Saini\.android\build-cache\14a561900adf4766957a91bcf01c55bd3dcbc251\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="C:\Users\Vaibhav Saini\AndroidStudioProjects\vasa_sky\app\build\intermediates\transforms\dex\fdroid\debug\folders\1000\10\classes_1419181a789a83fd3796639ecf75a51f71530ece\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vaibhav Saini\.android\build-cache\8c7c6f5c8ce1831d9cdc709393ebad366b4dd5d6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ef8ab5fee042023018249474bc93bd4b2b9c17e">
+        <dex dex="C:\Users\Vaibhav Saini\AndroidStudioProjects\vasa_sky\app\build\intermediates\transforms\dex\fdroid\debug\folders\1000\10\classes_39a6b9bde249bcd8b754b248c98d8ae0da88b6f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vaibhav Saini\AndroidStudioProjects\vasa_sky\app\libs\protobuf-java-2.3.0-lite.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f651f36a8da50973f44088a1e233d90a70f7a2b4">
+        <dex dex="C:\Users\Vaibhav Saini\AndroidStudioProjects\vasa_sky\app\build\intermediates\transforms\dex\fdroid\debug\folders\1000\2\protobuf-java-2.3.0-lite_d1d2f551c56a41c18830f683ff526886096ee9c2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vaibhav Saini\.android\build-cache\2be4c703064827bd430598a614471c2e1e42867e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
+        <dex dex="C:\Users\Vaibhav Saini\AndroidStudioProjects\vasa_sky\app\build\intermediates\transforms\dex\fdroid\debug\folders\1000\10\classes_f22362fa7c184ecb2c8a2946005a803b1954717e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vaibhav Saini\.gradle\caches\modules-2\files-2.1\com.google.guava\guava\19.0\6ce200f6b23222af3d8abb6b6459e6c44f4bb0e9\guava-19.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ce200f6b23222af3d8abb6b6459e6c44f4bb0e9">
+        <dex dex="C:\Users\Vaibhav Saini\AndroidStudioProjects\vasa_sky\app\build\intermediates\transforms\dex\fdroid\debug\folders\1000\10\guava-19.0_ed7df7be11dd17a0a234d1c2c3ab871a5ce1fd81\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vaibhav Saini\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\Users\Vaibhav Saini\AndroidStudioProjects\vasa_sky\app\build\intermediates\transforms\dex\fdroid\debug\folders\1000\10\javax.inject-1_8f4fd21c7382fac30d4ab543a93196f75e422ce0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vaibhav Saini\.gradle\caches\modules-2\files-2.1\com.google.dagger\dagger\2.0.2\de8416eda7b2fd7c25836b140c39e1cbf10542f6\dagger-2.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de8416eda7b2fd7c25836b140c39e1cbf10542f6">
+        <dex dex="C:\Users\Vaibhav Saini\AndroidStudioProjects\vasa_sky\app\build\intermediates\transforms\dex\fdroid\debug\folders\1000\10\dagger-2.0.2_1ea33a3e62f6f0831447083cdc610aeb5dea222c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vaibhav Saini\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="C:\Users\Vaibhav Saini\AndroidStudioProjects\vasa_sky\app\build\intermediates\transforms\dex\fdroid\debug\folders\1000\10\support-annotations-24.0.0_676ff62dd24e3b30c71e099cc2d07c6daae138c7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vaibhav Saini\AndroidStudioProjects\vasa_sky\app\libs\protobuf-java-2.3.0-lite.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f651f36a8da50973f44088a1e233d90a70f7a2b4">
+        <dex dex="C:\Users\Vaibhav Saini\AndroidStudioProjects\vasa_sky\app\build\intermediates\transforms\dex\fdroid\debug\folders\1000\2\protobuf-java-2.3.0-lite_d1d2f551c56a41c18830f683ff526886096ee9c2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vaibhav Saini\AndroidStudioProjects\vasa_sky\app\build\intermediates\incremental-classes\fdroid\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3d78f1d8fe1c707be81c1941fa6853d6d83a8575">
+        <dex dex="C:\Users\Vaibhav Saini\AndroidStudioProjects\vasa_sky\app\build\intermediates\transforms\dex\fdroid\debug\folders\1000\10000\instant-run-bootstrap_02cab373493e2d4ee3564bd30e3c4ced84752da8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vaibhav Saini\.android\build-cache\5a58366cfbcf49a728de2ff9c114dabbc0f23c5b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="C:\Users\Vaibhav Saini\AndroidStudioProjects\vasa_sky\app\build\intermediates\transforms\dex\fdroid\debug\folders\1000\10\classes_8e738ab86ff9e3e5aaf3f10377104dec1b029b56\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vaibhav Saini\.gradle\caches\modules-2\files-2.1\com.google.dagger\dagger\2.0.2\de8416eda7b2fd7c25836b140c39e1cbf10542f6\dagger-2.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de8416eda7b2fd7c25836b140c39e1cbf10542f6">
+        <dex dex="C:\Users\Vaibhav Saini\AndroidStudioProjects\vasa_sky\app\build\intermediates\transforms\dex\fdroid\debug\folders\1000\10\dagger-2.0.2_1ea33a3e62f6f0831447083cdc610aeb5dea222c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vaibhav Saini\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\Users\Vaibhav Saini\AndroidStudioProjects\vasa_sky\app\build\intermediates\transforms\dex\fdroid\debug\folders\1000\10\javax.inject-1_8f4fd21c7382fac30d4ab543a93196f75e422ce0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vaibhav Saini\.gradle\caches\modules-2\files-2.1\com.google.guava\guava\19.0\6ce200f6b23222af3d8abb6b6459e6c44f4bb0e9\guava-19.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6ce200f6b23222af3d8abb6b6459e6c44f4bb0e9">
+        <dex dex="C:\Users\Vaibhav Saini\AndroidStudioProjects\vasa_sky\app\build\intermediates\transforms\dex\fdroid\debug\folders\1000\10\guava-19.0_ed7df7be11dd17a0a234d1c2c3ab871a5ce1fd81\classes.dex" />
+    </item>
+
+</items>

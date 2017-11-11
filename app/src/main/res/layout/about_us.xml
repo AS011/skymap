@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+    <ImageView
+        android:src="@drawable/wallpaper"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:id="@+id/imageView2"
+        android:scaleType="centerCrop"/>
+
+    <TextView
+        android:text="“SciComm is born with a specific aim to change the way education and careers are perceived, by making them more interactive and understandable with the use of present technology and trend.” SciComm emphasizes on teaching beyond the classrooms that facilitates learning and gives students a unique experience.
+For more information:"
+        android:textSize="20sp"
+        android:textColor="#8df39b"
+        android:layout_marginRight="20dip"
+        android:layout_marginLeft="20dip"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView10"
+        android:layout_marginTop="100dp"/>
+
+
+    <TextView
+        android:text="About us"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignLeft="@+id/textView10"
+        android:layout_alignStart="@+id/textView10"
+        android:layout_marginTop="37dp"
+        android:textSize="25sp"
+        android:textColor="#8ddef3"
+        android:id="@+id/textView12"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="www.scicomm.in"
+        android:textSize="18sp"
+        android:textColor="#ff7c7c"
+        android:layout_below="@+id/textView10"
+        android:layout_alignLeft="@+id/textView10"
+        android:layout_alignStart="@+id/textView10"
+        android:layout_marginTop="20dp"
+        android:id="@+id/textView13"
+        android:autoLink="web"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Developer:  Vaibhav Saini"
+        android:textColor="#6affd0"
+        android:textSize="20sp"
+        android:layout_below="@+id/textView13"
+        android:layout_alignLeft="@+id/textView13"
+        android:layout_alignStart="@+id/textView13"
+        android:layout_marginTop="47dp"
+        android:id="@+id/textView14"/>
+</RelativeLayout>

@@ -1,0 +1,84 @@
+# view res/layout/skyrenderer.xml #generated:16
+-keep class android.opengl.GLSurfaceView { <init>(...); }
+
+# view res/layout/activity_compass_calibration.xml #generated:2
+# view res/layout/activity_diagnostic.xml #generated:2
+-keep class android.support.v4.widget.NestedScrollView { <init>(...); }
+
+# view AndroidManifest.xml #generated:145
+-keep class com.google.android.gms.common.api.GoogleApiActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:132
+-keep class com.google.android.gms.measurement.AppMeasurementReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:140
+-keep class com.google.android.gms.measurement.AppMeasurementService { <init>(...); }
+
+# view AndroidManifest.xml #generated:165
+-keep class com.google.firebase.iid.FirebaseInstanceIdInternalReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:150
+-keep class com.google.firebase.iid.FirebaseInstanceIdReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:172
+-keep class com.google.firebase.iid.FirebaseInstanceIdService { <init>(...); }
+
+# view AndroidManifest.xml #generated:180
+-keep class com.google.firebase.provider.FirebaseInitProvider { <init>(...); }
+
+# view AndroidManifest.xml #generated:102
+-keep class com.vasa.android.stardroid.About_the_devloper { <init>(...); }
+
+# view AndroidManifest.xml #generated:105
+-keep class com.vasa.android.stardroid.About_us { <init>(...); }
+
+# view AndroidManifest.xml #generated:104
+-keep class com.vasa.android.stardroid.Join_us { <init>(...); }
+
+# view AndroidManifest.xml #generated:103
+-keep class com.vasa.android.stardroid.Our_services { <init>(...); }
+
+# view AndroidManifest.xml #generated:65
+-keep class com.vasa.android.stardroid.StardroidApplication { <init>(...); }
+
+# view AndroidManifest.xml #generated:127
+-keep class com.vasa.android.stardroid.activities.CompassCalibrationActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:116
+-keep class com.vasa.android.stardroid.activities.DiagnosticActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:81
+-keep class com.vasa.android.stardroid.activities.DynamicStarMapActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:106
+-keep class com.vasa.android.stardroid.activities.EditSettingsActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:112
+-keep class com.vasa.android.stardroid.activities.ImageDisplayActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:109
+-keep class com.vasa.android.stardroid.activities.ImageGalleryActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:70
+-keep class com.vasa.android.stardroid.activities.SplashScreenActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:121
+-keep class com.vasa.android.stardroid.search.SearchTermsProvider { <init>(...); }
+
+# view res/layout/skyrenderer.xml #generated:179
+# view res/layout/skyrenderer.xml #generated:84
+-keep class com.vasa.android.stardroid.views.ButtonLayerView { <init>(...); }
+
+# view res/layout/skyrenderer.xml #generated:102
+# view res/layout/skyrenderer.xml #generated:112
+# view res/layout/skyrenderer.xml #generated:122
+# view res/layout/skyrenderer.xml #generated:132
+# view res/layout/skyrenderer.xml #generated:142
+# view res/layout/skyrenderer.xml #generated:152
+# view res/layout/skyrenderer.xml #generated:186
+# view res/layout/skyrenderer.xml #generated:92
+-keep class com.vasa.android.stardroid.views.PreferencesButton { <init>(...); }
+
+# onClick res/layout/activity_compass_calibration.xml #generated:61
+-keepclassmembers class * { *** onOkClicked(...); }
+

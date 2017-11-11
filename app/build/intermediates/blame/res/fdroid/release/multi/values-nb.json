@@ -1,0 +1,54 @@
+[
+    {
+        "outputFile": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\build\\intermediates\\incremental\\mergeFdroidReleaseResources\\merged.dir\\values-nb\\values-nb.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 13,
+                    "endOffset": 453
+                },
+                "from": {
+                    "file": "/home/vaibhav/AndroidStudioProjects/vasa_sky/C:\\Users\\Vaibhav Saini\\AndroidStudioProjects\\vasa_sky\\app\\src\\main\\res\\values-nb\\language_apology.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 4,
+                        "startOffset": 16,
+                        "endLine": 3,
+                        "endColumn": 13,
+                        "endOffset": 414
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/incremental/mergeFdroidReleaseResources/merged.dir/values-nb/values-nb.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 13,
+                    "endOffset": 453
+                },
+                "from": {
+                    "file": "/home/vaibhav/AndroidStudioProjects/vasa_sky/app/src/main/res/values-nb/language_apology.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 4,
+                        "startOffset": 16,
+                        "endLine": 3,
+                        "endColumn": 13,
+                        "endOffset": 414
+                    }
+                }
+            }
+        ]
+    }
+]

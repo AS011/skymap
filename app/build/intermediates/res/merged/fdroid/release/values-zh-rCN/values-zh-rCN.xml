@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="popular_date_examples">
+        <item>现在</item>
+        <item>第二天傍晚日落</item>
+        <item>第二天日出</item>
+        <item>下一次满月</item>
+        <item>Mercury transit of May 09, 2016</item>
+        <item>2017 年 8 月 21 日的日食</item>
+        <item>2016 年 3 月 9 日的日食</item>
+        <item>1919 年 5 月 29 日的日食</item>
+        <item>阿波罗 11 号登月</item>
+    </string-array>
+    <string-array name="sensor_damping">
+        <item>Jumpy</item>
+        <item>Medium</item>
+        <item>标准</item>
+        <item>高</item>
+    </string-array>
+    <string-array name="sensor_speed">
+        <item>慢</item>
+        <item>标准</item>
+        <item>快</item>
+    </string-array>
+    <string msgid="4770915072144378781" name="common_google_play_services_api_unavailable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g>需要使用一或多项 Google Play 服务，但这些服务目前不可用。请与开发者联系以寻求帮助。"</string>
+    <string msgid="2050101795821476669" name="common_google_play_services_enable_button">"启用Google Play服务"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"您必须先启用 Google Play 服务，然后才能运行<ns1:g id="APP_NAME">%1$s</ns1:g>。"</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"启用 Google Play 服务"</string>
+    <string msgid="7118643132557593940" name="common_google_play_services_install_button">"获取 Google Play 服务"</string>
+    <string msgid="1666261992894286769" name="common_google_play_services_install_text_phone">"您的手机没有安装 Google Play 服务，因此无法运行<ns1:g id="APP_NAME">%1$s</ns1:g>。"</string>
+    <string msgid="1701766622451829291" name="common_google_play_services_install_text_tablet">"您的平板电脑没有安装 Google Play 服务，因此无法运行<ns1:g id="APP_NAME">%1$s</ns1:g>。"</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"获取 Google Play 服务"</string>
+    <string msgid="479501935061677276" name="common_google_play_services_invalid_account_text">"此设备上不存在指定的帐号，请选择其他帐号。"</string>
+    <string msgid="5775407690646375078" name="common_google_play_services_invalid_account_title">"无效帐号"</string>
+    <string msgid="6857745590248226927" name="common_google_play_services_network_error_text">"您必须有数据网络连接才能接入 Google Play 服务。"</string>
+    <string msgid="4183541461338112307" name="common_google_play_services_network_error_title">"网络错误"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Google Play服务出错"</string>
+    <string msgid="8897126254633757462" name="common_google_play_services_resolution_required_text">"请完成 <ns1:g id="APP_NAME">%1$s</ns1:g>要求执行的操作。"</string>
+    <string msgid="7524004365913123453" name="common_google_play_services_resolution_required_title">"要使用 Google Play 服务，您必须执行一项操作"</string>
+    <string msgid="3111284987662714014" name="common_google_play_services_restricted_profile_text">"系统不支持通过受限个人资料访问帐号。"</string>
+    <string msgid="8137798410446890929" name="common_google_play_services_restricted_profile_title">"受限个人资料"</string>
+    <string msgid="2431909537598981235" name="common_google_play_services_sign_in_failed_text">"登录该帐号时出错。请选择其他帐号。"</string>
+    <string msgid="4402642931312190213" name="common_google_play_services_sign_in_failed_title">"登录失败"</string>
+    <string msgid="9089562800660647919" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g>无法访问 Google Play 服务。如果问题一直存在，请与开发者联系以寻求帮助。"</string>
+    <string msgid="1064791666906610763" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g>必须搭配使用 Google Play 服务才能运行，但您的设备不支持该服务。请与设备制造商联系以寻求帮助。"</string>
+    <string msgid="539866123733096737" name="common_google_play_services_unsupported_title">"Google Play服务"</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"更新"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"您必须先更新 Google Play 服务，然后才能运行<ns1:g id="APP_NAME">%1$s</ns1:g>。"</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"更新 Google Play 服务"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"Google Play 服务当前正在更新，因此您无法运行<ns1:g id="APP_NAME">%1$s</ns1:g>。"</string>
+    <string msgid="2270671469198016014" name="common_google_play_services_updating_title">"Google Play 服务正在更新"</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"必须使用新版 Google Play 服务。该服务很快就会自行更新。"</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"在手机上打开"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"登录"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"使用 Google 帐号登录"</string>
+    <string name="help_text" translation_description="Please do not change the &lt; and > markup">&lt;big>&lt;b>星空地图 Android 版&lt;/b>&lt;/big>&lt;br/>
+版本 %s&lt;i>&lt;/i>&lt;br/>
+
+https://github.com/sky-map-team/stardroid&lt;i>&lt;/i>&lt;br/>&lt;br/>
+
+&lt;b>简介和快速入门&lt;/b>&lt;br/>
+星空地图可让您的 Android 手机成为一扇仰望夜空的窗口。
+当您对着天空举起手机时，就会看到一张与天空中相应区域
+最亮的恒星、星座和行星对应的天体图。&lt;br/>当您下一次看到明亮的星星，
+并且想知道它的名称时，试试 星空地图吧！&lt;br/>
+
+&lt;b>可见图层&lt;/b>&lt;br/>
+
+星空地图会把它显示给您的天体划分到各图层中。
+您可以利用屏幕控件切换每一个图层，其中包括：&lt;br/>
+      恒星&lt;br/>
+      星座&lt;br/>
+      梅西耶天体&lt;br/>
+      行星&lt;br/>
+      赤经赤纬网格&lt;br/>
+      水平线和方位基点&lt;br/>&lt;br/>
+最亮的恒星和最重要的星座都跟行星一样进行了标记。
+行星的显示图片要比实际大小大。
+水平线用直线表示。
+仅当您所在的地方十分平坦并且没有任何建筑物时，
+星空地图才有可能向您显示您通常无法看到的、
+地平线上空的天体。&lt;br/>&lt;br/>
+
+&lt;b>屏幕控件&lt;/b>&lt;br/>
+在屏幕上执行点按操作可显示屏幕控件。屏幕的一侧是上述图层的
+开关选项。启用相应图层后，其开关选项就会变成橙色；停用相应
+图层后，其开关选项则会变成白色。&lt;br/>
+
+屏幕底部有缩放控件以及一个用于在自动模式和手动模式间进行切换的
+开关。&lt;br/>&lt;br/>
+&lt;b>导航模式&lt;/b>&lt;br/>
+首次安装 星空地图后，它会处于自动模式，并且利用手机的
+传感器向您显示一张与您手握手机的方向一致的星空图。
+切换到手动模式后，您就可以通过用手指拖动星空图的方式探索星空。
+左右移动跟踪球或 D-pad 可旋转星空图。在多点触控手机上，您还可以
+用两个手指旋转星空图，并可以通过开合双指执行放大和缩小操作。
+&lt;br/>&lt;br/>
+
+&lt;b>搜索&lt;/b>&lt;br/>
+星空地图可帮助您回答“那颗星星叫什么名字？”以及
+“...在什么位置？”等问题。通过手机的菜单按钮或桌面上的
+“快速搜索框”都可以使用搜索功能。当您开始输入待查找
+行星、恒星或星座的名字时，星空地图会显示一系列匹配的搜索项。
+任选其中一项，星空地图就会显示一个定位圆圈和一个箭头，
+向您演示如何移动手机和调整自己的位置才能找到相应天体。
+当您移动手机并接近目标时，定位圆圈会
+从蓝色变为红色；当天体进入您的视野中时，
+圆圈最终会变成橙色。&lt;br/>
+请注意，在手动模式下，
+星空地图只会移动星空图，向您显示相应天体。&lt;br/>
+要退出搜索模式，请点按屏幕边角中的小十字。&lt;br/>&lt;br/>
+
+&lt;b>时间旅行（新功能！）&lt;/b>&lt;br/>
+
+在“时间旅行”模式下，您可以使用 星空地图查看除现在之外其他时间
+的星空。从主菜单选择“时间旅行”，然后选择一个“热门日期”，
+或者使用“更改日期”和“更改时间”对话框选择您自己的日期和时间。
+由于精确度的限制（这主要是由木星的引力影响造成的），
+只能选择 1900-2100 之间的年份。
+完成选择后，按“开始！”即可穿越时间到达您的目的地。
+您的 星空地图目前处于时间旅行模式，
+显示的是您正在访问的日期，
+同时提供了一些控件用于“播放”从现在开始向前/向后的时间。
+对于这些按钮，点按一次可以慢速穿越时间，点按多次可以
+越来越快地穿越时间。&lt;br/>
+
+“时间旅行”可用于回答各种问题，包括：
+“今天傍晚日落后我能看到什么？”、
+“我什么时候可以再次看到水星？”以及
+“根据赫西奥德 (Hesiod) 的择日之说，我应当什么时候采摘葡萄？”&lt;br/>&lt;br/>
+
+&lt;b>哈勃图片库&lt;/b>&lt;br/>
+星空地图包含 星空的“哈勃图片库”中的部分图片。
+选择菜单中的“图片库”项可访问“图片库”。进入“图片库”后，
+您可以使用手指滚动浏览所提供的图片。
+如果您点按其中一张缩略图，星空地图会向您显示完整大小的图片。
+如果您点按“搜索”按钮，星空地图就会切换至“搜索”模式，并查找
+与具体图片相匹配的天体。&lt;br/>&lt;br/>
+
+&lt;b>夜视模式&lt;/b>&lt;br/>
+夜视模式可保护您的眼睛，使其适应黑暗环境。
+当您选择“夜视”菜单选项后，星空地图
+就会以红色显示各个天体，使屏幕变暗并关闭按钮背光。
+再次选择该选项可恢复到正常颜色。&lt;br/>&lt;br/>
+
+&lt;b>设置您的位置&lt;/b>&lt;br/>
+星空地图需要了解您的大概位置，才可以显示
+正确的星空图。默认情况下，它会根据您的蜂窝网络
+确定此信息。如果您不在服务区或停用了网络位置
+功能，它会使用您手机上的 GPS 功能。您也可以
+在设置菜单中输入地名或经纬度，从而手动设置
+自己的位置。请注意，星空地图需要获得
+数据连接，才能根据地名确定您的经纬度。&lt;br/>&lt;br/>
+
+&lt;b>问题排查和限制&lt;/b>&lt;br/>
+星空图不准确。&lt;i>&lt;/i>&lt;br/>
+如果您发现星空图与实际星空不一致，那么可能是以下几种原因
+导致的：&lt;br/>
+1) 您的罗盘经过校准了吗？请手握手机，按 8 字形转动腕部，
+从而校准罗盘。您可以按一定的时间间隔重复这一操作。
+校准功能是手机自身提供的，而非 星空地图的功能。&lt;br/>
+2) 应用程序能对您的位置进行准确修正吗？
+您是否已启用 GPS 或网络位置功能？&lt;br/>
+3) 您是否设置了正确的时间和时区？
+星空地图需要计算世界时，因此需要您的
+本地时间和时区信息。如果您的手机中插有 SIM 卡，
+那么手机通常会正确设置这些信息。&lt;br/>
+4) 您是否已启用磁力修正功能？在地球上的某些地方，北和正北之间的
+磁力差可能高达 20 度。&lt;br/>
+星空图无法移动&lt;i>&lt;/i>&lt;br/>
+您是否处于手动模式？如果没有，则可能会导致罗盘处于未校准状态。
+请按上述步骤找到问题所在。&lt;br/>&lt;br/>
+
+&lt;b>名单&lt;/b>&lt;br/>
+工程与设计&lt;i>&lt;/i>&lt;br/>
+Brent Bryan、Dominic Widdows、Hector Ouilhet、James Powell、John Taylor、
+Kevin Serafini&lt;br/>
+
+产品管理&lt;i>&lt;/i>&lt;br/>
+Lior Ron&lt;br/>
+
+公共关系&lt;i>&lt;/i>&lt;br/>
+Aaron Stein、Erin Gleason&lt;br/>
+
+产品推广&lt;i>&lt;/i>&lt;br/>
+Effie Seiberg、Linda Tong&lt;br/>
+
+翻译&lt;i>&lt;/i>&lt;br/>
+Jelena Oertel&lt;br/>&lt;br/>
+
+
+&lt;b>致谢&lt;/b>&lt;br/>
+星空地图的数据来源：&lt;br/>
+Centre de Donnees astronomiques de Strasbourg (http://cdsweb.u-strasbg.fr/)&lt;br/>
+The Bright Star Catalogue，第 5 修订版（Hoffleit D. 和 Warren Jr W.H.）&lt;br/>
+The HYG Database，HYG v1.0。(http://www.astronexus.com/)&lt;br/>
+History and Accurate Positions for the NGC/IC Objects (Harold G. Corwin Jr)&lt;br/>
+Revised New General Catalogue of Nonstellar Astronomical Objects
+（Sulentic J.W. 和 Tifft W.G.）&lt;br/>
+SFA Star Charts
+(http://observe.phy.sfasu.edu/SFAStarCharts/SFAStarChartFAQ.html)&lt;br/>
+太阳系天体的位置是根据 USNO 提供的数据计算得出的
+(http://www.usno.navy.mil/USNO/astronomical-applications)&lt;br/>
+球面覆盖范围数据来源于
+(http://www2.research.att.com/~njas/coverings)&lt;br/>
+哈勃图片由美国宇航局的空间望远镜研究所提供
+(http://hubblesite.org/)&lt;br/></string>
+    <string name="language_apology_text" translation_description="Apology for missing translations in this language and appeal for help.">
+        亲爱的天文学家。我们在星空图的英文单词道歉。星空图是由志愿者维护。不幸的是，我们没有在所有的语言完全翻译。如果你能在你的语言帮助，我们欢迎丢失或纠正翻译。
+    </string>
+</resources>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="popular_date_examples">
+        <item>Agora</item>
+        <item>Próximo pôr do sol</item>
+        <item>Próximo nascer do sol</item>
+        <item>Próxima lua cheia</item>
+        <item>Mercury transit of May 09, 2016</item>
+        <item>Eclipse solar em Aug 21, 2017</item>
+        <item>Eclipse solar em March 9, 2016</item>
+        <item>Eclipse solar em 29 de maio de 1919</item>
+        <item>Pouso da Apollo 11 na lua</item>
+    </string-array>
+    <string-array name="sensor_damping">
+        <item>Jumpy</item>
+        <item>Medium</item>
+        <item>Padrão</item>
+        <item>Alta</item>
+    </string-array>
+    <string-array name="sensor_speed">
+        <item>Lenta</item>
+        <item>Padrão</item>
+        <item>Rápida</item>
+    </string-array>
+    <string name="help_text" translation_description="Please do not change the &lt; and > markup">&lt;big>&lt;b>Sky Map para Android&lt;/b>&lt;/big>&lt;br/>
+&lt;i>Versão %s&lt;/i>&lt;br/>
+
+&lt;i>https://github.com/sky-map-team/stardroid&lt;/i>&lt;br/>&lt;br/>
+
+&lt;b>Apresentação e início rápido&lt;/b>&lt;br/>
+O Sky Map transforma seu celular Android em uma janela para o céu noturno. Ao apontar o telefone para cima, você verá um mapa das estrelas, constelações e planetas mais brilhantes daquela parte do céu.&lt;br/>Da próxima vez que você vir uma estrela brilhante e quiser saber seu nome, use o Sky Map!&lt;br/>
+
+&lt;b>Camadas visíveis&lt;/b>&lt;br/>
+
+O Sky Map organiza os objetos mostrados em camadas. Cada camada pode ser ativada ou desativada usando os controles na tela. As camadas são:&lt;br/>
+      Estrelas&lt;br/>
+      Constelações&lt;br/>
+      Objetos Messier&lt;br/>
+      Planetas&lt;br/>
+      Grade de ascensão reta e declinação&lt;br/>
+      Horizonte e pontos cardeais&lt;br/>&lt;br/>
+As estrelas mais brilhantes e as constelações mais proeminentes são nomeadas, assim como os planetas. Os planetas são exibidos como imagens, maiores do que o tamanho real. O horizonte é representado por uma linha reta. A não ser que você viva em algum lugar completamente plano e sem construções, é provável que o Sky Map mostre objetos acima da linha do horizonte que na realidade você não consegue enxergar.&lt;br/>&lt;br/>
+
+&lt;b>Controles na tela&lt;/b>&lt;br/>
+Toque na tela para mostrar os controles na tela. Em um lado da tela ficam os botões para alternar as camadas descritas acima. Eles apresentam cor laranja quando as camadas estão ativadas e branca quando estão desativadas.&lt;br/>
+
+Na parte inferior da tela ficam os controles do zoom, e um botão para alternar entre os modos automático e manual.&lt;br/>&lt;br/>
+&lt;b>Modos de navegação&lt;/b>&lt;br/>
+Assim que é instalado o Sky Map fica em Modo automático e usa os sensores do telefone para mostrar a você um mapa do céu na direção em que você está segurando o telefone. Ao trocar para o Modo manual, você pode arrastar o mapa com o dedo para explorar o céu. Mova o trackball ou o teclado para a esquerda e para a direita para girar o mapa. Em telefones multitoque, você também pode girar o mapa com dois dedos e fazer um movimento de pinça para aumentar ou diminuir o zoom.
+&lt;br/>&lt;br/>
+
+&lt;b>Pesquisa&lt;/b>&lt;br/>
+O Sky Map ajuda você a responder à pergunta \"Qual o nome daquela estrela ali?\". Ele também pode responder à pergunta \"Onde está ...?\". Acesse a função de pesquisa por meio do botão menu do telefone ou por meio da Caixa de pesquisa rápida diretamente na Área de trabalho. Comece digitando o nome do planeta, estrela ou constelação que você deseja encontrar e o Sky Map fornecerá uma lista dos itens correspondentes à pesquisa. Selecione um e o Sky Map exibirá um círculo de segmentação e uma seta mostrando a você como se movimentar e como mover o telefone para encontrar o objeto. Conforme você move o telefone e se aproxima da área em destaque, o círculo terá sua cor alterada de azul para vermelho, ficando laranja por fim, quando o objeto estiver no seu campo de visão.&lt;br/>
+Se você estiver no Modo manual, o Sky Map simplesmente moverá o mapa para mostrar o objeto para você.&lt;br/>
+Para sair do Modo de pesquisa, toque na pequena cruz no canto da tela.&lt;br/>&lt;br/>
+
+&lt;b>Viagem no tempo (Novo!)&lt;/b>&lt;br/>
+
+O modo Viagem no tempo permite que você utilize o Sky Map para ver o céu em outras datas além do presente. Selecione \"Viagem no tempo\" no menu principal e selecione uma das \"Datas populares\" ou escolha sua própria data e hora utilizando as caixas de diálogo \"Alterar a data\" ou \"Alterar a hora\". As seleções estão limitadas aos anos entre 1900 e 2100 devido a limitações de precisão, causadas principalmente pela influência gravitacional de Júpiter. Quando estiver pronto, pressione \"Ir\" para voar no tempo até seu destino. Seu Sky Map agora está no modo de viagem no tempo, exibindo a data que você está visitando e os controles para avançar ou voltar no tempo a partir desse ponto. Clique uma vez nesses botões para começar a se mover devagar pelo tempo, e várias vezes para aumentar a velocidade da viagem.&lt;br/>
+
+A Viagem no tempo pode ser usada para responder perguntas como \"O que poderei ver logo após o pôr do sol esta noite?, \"Quando terei uma boa chance de ver Mercúrio?\" e \"De acordo com Hesiod, quando devo colher minhas uvas?\"&lt;br/>&lt;br/>
+
+&lt;b>Galeria Hubble&lt;/b>&lt;br/>
+O Sky Map contém uma subcoleção da Galeria Hubble. Para acessar a Galeria, selecione o item \"Galeria\" no menu. Dentro da Galeria é possível navegar pelas imagens disponíveis ao rolar a tela com o dedo. Ao tocar na miniatura de uma imagem, o Sky Map mostra a imagem inteira. Se você tocar no botão \"Pesquisar\", o Sky Map irá alternar para o modo de Pesquisa para localizar o objeto que corresponde à imagem.&lt;br/>&lt;br/>
+
+&lt;b>Modo de visão noturna&lt;/b>&lt;br/>
+O Modo de visão noturna foi projetado para proteger seus olhos já adaptados à escuridão. Quando você selecionar a opção \"Visão noturna\" do menu, o Sky Map exibirá o mapa em uma cor vermelha, diminuirá a iluminação da tela e desligará a luz de fundo dos botões. Selecione a opção novamente para voltar para as cores normais.&lt;br/>&lt;br/>
+
+&lt;b>Como definir seu local&lt;/b>&lt;br/>
+O Sky Map precisa saber seu local aproximado para conseguir mostrar a você o mapa correto das estrelas. Por padrão, essa informação é determinada a partir da rede do seu celular. Se você estiver fora do alcance, ou estiver com a localização pela rede desativada, ele usará o GPS do seu telefone. Você também pode definir seu local manualmente por meio do menu de configurações, seja fornecendo o nome de um lugar ou sua latitude e longitude (em graus). O Sky Map exige uma conexão de dados para determinar sua latitude e longitude a partir do nome do lugar.&lt;br/>&lt;br/>
+
+&lt;b>Solução de problemas e limitações&lt;/b>&lt;br/>
+&lt;i>O mapa não está preciso.&lt;/i>&lt;br/>
+Se você descobrir que o mapa não está alinhado com precisão ao céu de verdade, pode haver uma série de razões para isso:&lt;br/>
+1) Sua bússola está calibrada? Tente segurar o telefone e girar o pulso na forma de um número oito para calibrá-la. Pode ser necessário repetir o processo de vez em quando – esse é um recurso do telefone, e não do Sky Map.&lt;br/>
+2) O aplicativo está com a informação exata sobre seu local? A definição de local com base na sua rede ou GPS está ativada?&lt;br/>
+3) Você está com a hora e o fuso horário definidos corretamente?
+O Sky Map precisa calcular a Hora universal, e precisa do seu horário local E do fuso horário para fazê-lo. Se seu aparelho tiver um cartão SIM essas informações geralmente estão definidas corretamente.&lt;br/>
+4) Você está com a correção magnética ativada? Em algumas partes do mundo a diferença entre o norte magnético e o norte real pode chegar até a 20 graus.&lt;br/>
+&lt;i>O mapa não se move&lt;/i>&lt;br/>
+Você está no modo manual? Se não estiver, isso pode ocorrer devido a uma bússola não calibrada.
+Siga as etapas acima para que ele comece a se movimentar.&lt;br/>&lt;br/>
+
+&lt;b>Créditos&lt;/b>&lt;br/>
+&lt;i>Engenharia e Design&lt;/i>&lt;br/>
+Brent Bryan, Dominic Widdows, Hector Ouilhet, James Powell, John Taylor,
+Kevin Serafini&lt;br/>
+
+&lt;i>Gerenciamento do produto&lt;/i>&lt;br/>
+Lior Ron&lt;br/>
+
+&lt;i>Relações públicas&lt;/i>&lt;br/>
+Aaron Stein, Erin Gleason&lt;br/>
+
+&lt;i>Marketing do produto&lt;/i>&lt;br/>
+Effie Seiberg, Linda Tong&lt;br/>
+
+&lt;i>Traduções&lt;/i>&lt;br/>
+Jelena Oertel&lt;br/>&lt;br/>
+
+
+&lt;b>Agradecimentos&lt;/b>&lt;br/>
+O Sky Map se baseia em dados do:&lt;br/>
+Centre de Donnees astronomiques de Strasbourg (http://cdsweb.u-strasbg.fr/)&lt;br/>
+The Bright Star Catalogue, 5th Revised Ed. (Hoffleit D., Warren Jr W.H.)&lt;br/>
+The HYG Database, HYG v1.0. (http://www.astronexus.com/)&lt;br/>
+History and Accurate Positions for the NGC/IC Objects (Harold G. Corwin Jr)&lt;br/>
+Revised New General Catalogue of Nonstellar Astronomical Objects
+(Sulentic J.W., Tifft W.G.)&lt;br/>
+SFA Star Charts
+(http://observe.phy.sfasu.edu/SFAStarCharts/SFAStarChartFAQ.html)&lt;br/>
+As posições dos objetos do Sistema solar são calculadas a partir de dados fornecidos pelo USNO
+(http://www.usno.navy.mil/USNO/astronomical-applications)&lt;br/>
+Os dados de cobertura esférica são obtidos em
+(http://www2.research.att.com/~njas/coverings)&lt;br/>
+As imagens do Hubble são fornecidas pelo Space Telescope Science Institute da NASA 
+http://hubblesite.org/)&lt;br/></string>
+    <string name="language_apology_text" translation_description="Apology for missing translations in this language and appeal for help.">
+        Caro Astrônomo. Pedimos desculpas pelas palavras inglesas em SkyMap. SkyMap é mantida por voluntários. Infelizmente não temos traduções completas em todos os idiomas. Se você pode ajudar na sua língua, congratulamo-nos com traduções ausentes ou corrigidas.
+    </string>
+</resources>

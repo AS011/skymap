@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "278059778702",
+    "firebase_url": "https://vasagaze.firebaseio.com",
+    "project_id": "vasagaze",
+    "storage_bucket": "vasagaze.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278059778702:android:153aec83621de52b",
+        "android_client_info": {
+          "package_name": "com.vasa.android.stardroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278059778702-5pjjesnm1fs8kdkgie14l5h7iroueua2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vasa.android.stardroid",
+            "certificate_hash": "7b05a56994b0404160320f075d8e222a0abedb5d"
+          }
+        },
+        {
+          "client_id": "278059778702-j28a5ms5gqsgai5mt7uad403c3719psf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQMXY3npSjun7K_LEHHEsiZP4hj3fScLg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "278059778702-j28a5ms5gqsgai5mt7uad403c3719psf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

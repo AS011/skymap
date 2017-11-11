@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="popular_date_examples">
+        <item>Nyní</item>
+        <item>Další večerní západ slunce</item>
+        <item>Další ranní východ slunce</item>
+        <item>Další úplněk</item>
+        <item>Mercury transit of May 09, 2016</item>
+        <item>Zatmění slunce Aug 21, 2017</item>
+        <item>Zatmění slunce March 9, 2016</item>
+        <item>Zatmění slunce 29. května 1919</item>
+        <item>Přistání lodi Apollo 11 na Měsíci</item>
+    </string-array>
+    <string-array name="sensor_damping">
+        <item>Jumpy</item>
+        <item>Medium</item>
+        <item>Standardní</item>
+        <item>Vysoké</item>
+    </string-array>
+    <string-array name="sensor_speed">
+        <item>Pomalu</item>
+        <item>Standardní</item>
+        <item>Rychle</item>
+    </string-array>
+    <string msgid="4770915072144378781" name="common_google_play_services_api_unavailable_text">"Aplikace <ns1:g id="APP_NAME">%1$s</ns1:g> vyžaduje jednu nebo více služeb Google Play, které aktuálně nejsou k dispozici. S žádostí o pomoc se obraťte na vývojáře."</string>
+    <string msgid="2050101795821476669" name="common_google_play_services_enable_button">"Aktivovat služby Google Play"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"Ke spuštění aplikace <ns1:g id="APP_NAME">%1$s</ns1:g> je třeba aktivovat služby Google Play."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Aktivace služeb Google Play"</string>
+    <string msgid="7118643132557593940" name="common_google_play_services_install_button">"Instalace služeb Google Play"</string>
+    <string msgid="1666261992894286769" name="common_google_play_services_install_text_phone">"Ke spuštění aplikace <ns1:g id="APP_NAME">%1$s</ns1:g> jsou potřeba služby Google Play, které v telefonu nemáte."</string>
+    <string msgid="1701766622451829291" name="common_google_play_services_install_text_tablet">"Ke spuštění aplikace <ns1:g id="APP_NAME">%1$s</ns1:g> jsou potřeba služby Google Play, které v tabletu nemáte."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Instalace služeb Google Play"</string>
+    <string msgid="479501935061677276" name="common_google_play_services_invalid_account_text">"Zadaný účet v tomto zařízení neexistuje. Zvolte prosím jiný účet."</string>
+    <string msgid="5775407690646375078" name="common_google_play_services_invalid_account_title">"Neplatný účet"</string>
+    <string msgid="6857745590248226927" name="common_google_play_services_network_error_text">"Připojení ke službám Google Play vyžaduje datové připojení."</string>
+    <string msgid="4183541461338112307" name="common_google_play_services_network_error_title">"Chyba sítě"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Chyba služeb Google Play"</string>
+    <string msgid="8897126254633757462" name="common_google_play_services_resolution_required_text">"Proveďte akci vyžadovanou aplikací <ns1:g id="APP_NAME">%1$s</ns1:g>."</string>
+    <string msgid="7524004365913123453" name="common_google_play_services_resolution_required_title">"Služby Google Play vyžadují akci"</string>
+    <string msgid="3111284987662714014" name="common_google_play_services_restricted_profile_text">"Přístup k účtům z omezeného profilu není podporován."</string>
+    <string msgid="8137798410446890929" name="common_google_play_services_restricted_profile_title">"Omezený profil"</string>
+    <string msgid="2431909537598981235" name="common_google_play_services_sign_in_failed_text">"Při přihlašování k uvedenému účtu došlo k chybě. Zvolte prosím jiný účet."</string>
+    <string msgid="4402642931312190213" name="common_google_play_services_sign_in_failed_title">"Přihlášení se nezdařilo"</string>
+    <string msgid="9089562800660647919" name="common_google_play_services_unknown_issue">"Aplikace <ns1:g id="APP_NAME">%1$s</ns1:g> má potíže se službami Google Play. Pokud problém přetrvává, obraťte se na vývojáře s žádostí o pomoc."</string>
+    <string msgid="1064791666906610763" name="common_google_play_services_unsupported_text">"Aplikace <ns1:g id="APP_NAME">%1$s</ns1:g> vyžaduje služby Google Play, které ve vašem zařízení nejsou podporovány. S žádostí o pomoc kontaktujte výrobce zařízení."</string>
+    <string msgid="539866123733096737" name="common_google_play_services_unsupported_title">"Služby Google Play"</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Aktualizovat"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"Ke spuštění aplikace <ns1:g id="APP_NAME">%1$s</ns1:g> je třeba aktualizovat služby Google Play."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Aktualizace služeb Google Play"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"Ke spuštění aplikace <ns1:g id="APP_NAME">%1$s</ns1:g> jsou potřeba služby Google Play, které jsou právě aktualizovány."</string>
+    <string msgid="2270671469198016014" name="common_google_play_services_updating_title">"Probíhá aktualizace služeb Google Play"</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Je vyžadována nová verze služeb Google Play. Nová verze se brzy sama nainstaluje."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Otevřít v telefonu"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Přihlásit se"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Přihlásit se k účtu Google"</string>
+    <string name="help_text" translation_description="Please do not change the &lt; and > markup">&lt;big>&lt;b>Sky Map pro Android&lt;/b>&lt;/big>&lt;br/>
+&lt;i>Verze %s&lt;/i>&lt;br/>
+
+&lt;i>https://github.com/sky-map-team/stardroid&lt;/i>&lt;br/>&lt;br/>
+
+&lt;b>Úvod a stručný návod&lt;/b>&lt;br/>
+Aplikace Sky Map z vašeho telefonu se systémem Android udělá okno na noční obloze. Když telefon namíříte nahoru, najdete mapu nejjasnějších hvězd, souhvězdí a planet na dané části oblohy.&lt;br/>Až příště uvidíte jasnou hvězdu a budete chtít vědět, jak se jmenuje, použijte aplikaci Sky Map!&lt;br/>
+
+&lt;b>Viditelné vrstvy&lt;/b>&lt;br/>
+
+Sky Map uspořádává zobrazené objekty do vrstev. Každou vrstvu lze zapnout nebo vypnout pomocí zobrazených ovládacích prvků. Jde o tyto vrstvy:&lt;br/>
+      Hvězdy&lt;br/>
+      Souhvězdí&lt;br/>
+      Messierovy objekty&lt;br/>
+      Planety&lt;br/>
+      Síť rektascenze a deklinace&lt;br/>
+      Horizont a světové strany&lt;br/>&lt;br/>
+Nejjasnější hvězdy, nejvýraznější souhvězdí a planety jsou označeny. Planety jsou zobrazeny jako obrázky, které jsou větší než ve skutečnosti. Horizont je znázorněn jako rovná čára. Pokud nežijete na zcela rovném místě bez budov, aplikace Sky Map vám pravděpodobně zobrazí objekty nad horizontem, které ve skutečnosti nemůžete vidět.&lt;br/>&lt;br/>
+
+&lt;b>Zobrazené ovládací prvky&lt;/b>&lt;br/>
+Klepnutím na displej zobrazíte ovládací prvky. Na jedné straně obrazovky jsou přepínače výše zmíněných vrstev. Pokud jsou vrstvy zapnuté, jsou přepínače oranžové, a pokud jsou vrstvy vypnuté, jsou přepínače bílé.&lt;br/>
+
+Podél spodního okraje obrazovky jsou ovládací prvky pro přiblížení/oddálení a přepínač mezi automatickým a manuálním režimem.&lt;br/>&lt;br/>
+&lt;b>Navigační režimy&lt;/b>&lt;br/>
+Po první instalaci je aplikace Sky Map v automatickém režimu a využívá čidla telefonu, aby vám zobrazila mapu oblohy ve směru, kterým telefon držíte. Když přepnete do manuálního režimu, můžete mapu posunovat pomocí prstu, abyste oblohu prozkoumali. Posunutím trackballu nebo směrového ovladače doleva či doprava můžete mapu otáčet. U vícedotykových telefonů můžete mapu také otáčet pomocí dvou prstů a pomocí přiblížení či oddálení dvou prstů ji přibližovat či oddalovat.
+&lt;br/>&lt;br/>
+
+&lt;b>Vyhledávání&lt;/b>&lt;br/>
+Aplikace Sky Map vám pomůže odpovědět na otázku „Co je to tam za hvězdu?“ Může také odpovědět na otázku „Kde je ...?“ Použijte vyhledávací funkci přes tlačítko nabídky telefonu nebo přes pole rychlého vyhledávání  přímo na ploše.  Začněte psát název planety, hvězdy nebo souhvězdí, které chcete najít, a Sky Map nabídne seznam odpovídajících položek vyhledávání.  Jednu vyberte a Sky Map zobrazí zaměřovací kruh a šipku zobrazující, jak máte telefon (a sebe) nasměrovat, abyste objekt našli. Jak budete telefonem pohybovat a přibližovat se k cíli, kruh se změní z modrého na červený a nakonec na oranžový, když bude objekt ve vašem zorném poli.&lt;br/>
+Pokud jste v manuálním režimu, aplikace Sky Map prostě posune mapu tak, aby vám objekt zobrazila.&lt;br/>
+Pokud chcete vyhledávací režim ukončit, klepněte na malý křížek v rohu obrazovky.&lt;br/>&lt;br/>
+
+&lt;b>Cestování v čase (Novinka!)&lt;/b>&lt;br/>
+
+Režim cestování v čase umožňuje používat aplikaci Sky Map k zobrazení oblohy v jiné době než v současnosti. Zvolte „Cestování v čase“ z hlavní nabídky a pak zvolte jedno z Oblíbených dat, nebo zvolte vlastní datum a čas pomocí dialogových oken „Změnit datum“ a „Změnit čas“. Výběr je omezen na roky 1900-2100 kvůli omezením z důvodu přesnosti způsobeným hlavně gravitačním vlivem Jupiteru. Až budete hotovi, stiskněte „Hledat!“, abyste proletěli časem do svého cíle. Sky Map je nyní v režimu cestování v čase a zobrazuje datum, které jste navštívili, s ovládacími prvky pro „přehrávání“ času dopředu a dozadu od tohoto bodu. Jedním kliknutím na tato tlačítka se začnete pomalu pohybovat časem a opakovaným klikáním budete cestovat čím dál rychleji.&lt;br/>
+
+Cestování v čase lze využít k zodpovězení nejrůznějších otázek, včetně „Co uvidím dnes večer hned po západu slunce?“, „Kdy budu mít další dobrou šanci vidět Merkur?“ a „Kdy bych měl podle Hesioda sklidit hrozny?“&lt;br/>&lt;br/>
+
+&lt;b>Galerie snímků z Hubbleova teleskopu&lt;/b>&lt;br/>
+Sky Map obsahuje část galerie snímků z Hubbleova teleskopu ze služby Sky Map. Do galerie vstoupíte tak, že zvolíte položku Galerie v nabídce. V galerii můžete dostupné obrázky procházet posouváním pomocí prstu. Když klepnete na některou z miniatur snímků, Sky Map vám snímek zobrazí v plné velikosti. Pokud klepnete na tlačítko Hledat, aplikace Sky Map přejde do vyhledávacího režimu, aby našla objekt odpovídající obrázku.&lt;br/>&lt;br/>
+
+&lt;b>Režim nočního vidění &lt;/b>&lt;br/>
+Režim nočního vidění má chránit vaše oči navyknuté na tmu. Když v nabídce zvolíte možnost Noční vidění, aplikace Sky Map zobrazí mapu v červené barvě, ztmaví obrazovku a vypne podsvícení tlačítek. Dalším zvolením této možnosti se vrátíte na normální barvy.&lt;br/>&lt;br/>
+
+&lt;b>Nastavení polohy &lt;/b>&lt;br/>
+Aby vám aplikace Sky Map mohla zobrazit správnou hvězdnou mapu, potřebuje vaši přibližnou polohu,. Ve výchozím nastavení vaši polohu určí podle mobilní sítě. Pokud nejste v dosahu mobilní sítě nebo máte určování polohy podle sítě deaktivováno, použijte funkci GPS vašeho telefonu. Polohu můžete nastavit také ručně přes nabídku nastavení, buď zadáním místního názvu, nebo zeměpisné šířky a délky (ve stupních). Aby mohla aplikace Sky Map zjistit vaši zeměpisnou šířku a délku z místního názvu, vyžaduje datové připojení.&lt;br/>&lt;br/>
+
+&lt;b>Řešení problémů a omezení &lt;/b>&lt;br/>
+&lt;i>Mapa je nepřesná.&lt;/i>&lt;br/>
+Pokud zjistíte, že mapa přesně neodpovídá skutečné obloze, může to mít několik důvodů:&lt;br/>
+1) Máte kalibrovaný kompas? Zkuste telefon podržet a opakovaným pohybem zápěstí ve tvaru osmičky jej kalibrovat. Je možné, že tuto akci budete muset občas opakovat – jde o funkci telefonu, nikoli aplikace Sky Map.&lt;br/>
+2) Má aplikace přesně zaměřenou vaši polohu? Máte zapnutou funkci GPS nebo určení polohy podle sítě?&lt;br/>
+3) Máte nastavený správný čas a časové pásmo? Aplikace Sky Map potřebuje vypočítat Univerzální čas a k tomu potřebuje váš místní čas i časové pásmo. Pokud má vaše zařízení SIM kartu, pak jsou tyto hodnoty obvykle nastaveny správně.&lt;br/>
+4) Máte zapnutou magnetickou korekci? V některých částech světa může být rozdíl mezi magnetickým a zeměpisným severním pólem až 20 stupňů.&lt;br/>
+&lt;i>Mapa se nehýbe &lt;/i>&lt;br/>
+Nejste v manuálním režimu? Pokud ne, může to být způsobeno nekalibrovaným kompasem.
+Podle výše uvedeného postupu jej „uvolněte“.&lt;br/>&lt;br/>
+
+&lt;b>Tvůrci&lt;/b>&lt;br/>
+&lt;i>Technický vývoj a design&lt;/i>&lt;br/>
+Brent Bryan, Dominic Widdows, Hector Ouilhet, James Powell, John Taylor,
+Kevin Serafini&lt;br/>
+
+&lt;i>Produktový management&lt;/i>&lt;br/>
+Lior Ron&lt;br/>
+
+&lt;i>Styk s veřejností&lt;/i>&lt;br/>
+Aaron Stein, Erin Gleason&lt;br/>
+
+&lt;i>Produktový marketing&lt;/i>&lt;br/>
+Effie Seiberg, Linda Tong&lt;br/>
+
+&lt;i>Překlady&lt;/i>&lt;br/>
+Jelena Oertel&lt;br/>&lt;br/>
+
+
+&lt;b>Poděkování&lt;/b>&lt;br/>
+Aplikace Sky Map je založena na datech od:&lt;br/>
+Centre de Donnees astronomiques de Strasbourg (http://cdsweb.u-strasbg.fr/)&lt;br/>
+The Bright Star Catalogue, 5th Revised Ed. (Hoffleit D., Warren Jr W.H.)&lt;br/>
+The HYG Database, HYG v1.0. (http://www.astronexus.com/)&lt;br/>
+History and Accurate Positions for the NGC/IC Objects (Harold G. Corwin Jr)&lt;br/>
+Revised New General Catalogue of Nonstellar Astronomical Objects
+(Sulentic J.W., Tifft W.G.)&lt;br/>
+SFA Star Charts
+(http://observe.phy.sfasu.edu/SFAStarCharts/SFAStarChartFAQ.html)&lt;br/>
+Polohy objektů sluneční soustavy jsou vypočítány z dat poskytnutých observatoří USNO
+(http://www.usno.navy.mil/USNO/astronomical-applications)&lt;br/>
+Data sférického pokrytí získána od
+(http://www2.research.att.com/~njas/coverings)&lt;br/>
+Snímky z Hubbleova teleskopu poskytnuty institutem NASA Space Telescope Science Institute
+(http://hubblesite.org/)&lt;br/></string>
+    <string name="language_apology_text" translation_description="Apology for missing translations in this language and appeal for help.">
+        Vážený Astronom. Omlouváme se za anglických slov v SkyMap. SkyMap je udržována dobrovolníky. Bohužel nemáme kompletní překlady do všech světových jazyků. Pokud můžete pomoci pro váš jazyk, vítáme chybějící nebo opravené překlady.
+    </string>
+</resources>

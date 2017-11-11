@@ -1,0 +1,4 @@
+#Sat Sep 30 17:35:39 IST 2017
+base.0=/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/transforms/dex/fdroid/release/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/home/vaibhav/AndroidStudioProjects/vasa_sky/app/build/intermediates/transforms/dex/fdroid/release/folders/1000/1f/main/classes.dex
